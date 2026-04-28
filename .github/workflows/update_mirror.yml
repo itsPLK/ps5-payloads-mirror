@@ -1,0 +1,50 @@
+name: Automated Payloads Mirror
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Daily at midnight UTC
+  workflow_dispatch: # Manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run Payloads Update Script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python update_payloads.py
+
+      - name: Create and Update payloads-mirror Release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Create release if it doesn't exist
+          gh release create payloads-mirror --title "Payloads Mirror" --notes "Automated mirror of payloads." || true
+
+          # Upload all payload binaries
+          if [ -d "payloads" ] && [ "$(ls -A payloads)" ]; then
+            echo "Uploading payloads to release..."
+            gh release upload payloads-mirror payloads/* --clobber
+          else
+            echo "No payloads to upload."
+          fi
+
+      - name: Commit and Push ps5_payloads.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add ps5_payloads.json
+          git commit -m "Auto-update ps5_payloads.json metadata" || echo "No changes to commit"
+          git push

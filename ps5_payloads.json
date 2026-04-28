@@ -1,0 +1,146 @@
+[
+  {
+    "name": "ShadowMountPlus",
+    "filename": "ShadowMountPlus_1.6beta9.elf",
+    "url": "https://github.com/itsPLK/ps5_payloads/releases/download/payloads-mirror/ShadowMountPlus_1.6beta9.elf",
+    "source": "https://github.com/drakmor/ShadowMountPlus/releases",
+    "source_direct": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.6beta9/ShadowMountPlus_1.6beta9.zip",
+    "extract_file": "shadowmountplus.elf",
+    "description": "A fully automated, background 'Auto-Mounter' payload for Jailbroken PlayStation 5 consoles.",
+    "last_update": "2026-04-16",
+    "version": "1.6beta9",
+    "checksum": "7b9789d2a451e0cf52906c33a3797d97c4b8dbba64eca95762ab5929e2026204"
+  },
+  {
+    "name": "ftpsrv",
+    "filename": "ftpsrv_v0.19.elf",
+    "url": "https://github.com/itsPLK/ps5_payloads/releases/download/payloads-mirror/ftpsrv_v0.19.elf",
+    "source": "https://github.com/ps5-payload-dev/ftpsrv/releases",
+    "source_direct": "https://github.com/ps5-payload-dev/ftpsrv/releases/download/v0.19/ftpsrv-ps5.elf",
+    "description": "A simple FTP server that accepts connections on port 2121",
+    "last_update": "2026-04-07",
+    "version": "v0.19",
+    "checksum": "e6c1babbfd5e1b766d12b659853b514b9faedf6333cbe8cb514b1a3e79b7ce39"
+  },
+  {
+    "name": "kstuff-lite",
+    "filename": "kstuff-lite_v1.03.elf",
+    "url": "https://github.com/itsPLK/ps5_payloads/releases/download/payloads-mirror/kstuff-lite_v1.03.elf",
+    "source": "https://github.com/EchoStretch/kstuff-lite/releases",
+    "source_direct": "https://github.com/EchoStretch/kstuff-lite/releases/download/v1.03/kstuff.elf",
+    "description": "Lite version of kstuff",
+    "last_update": "2026-04-04",
+    "version": "v1.03",
+    "checksum": "54df47a48d9c5ee4338ef70ba66093908a4f2845e53468bdd7c080b65d7488c1"
+  },
+  {
+    "name": "websrv",
+    "filename": "websrv_v0.30.1.elf",
+    "url": "https://github.com/itsPLK/ps5_payloads/releases/download/payloads-mirror/websrv_v0.30.1.elf",
+    "source": "https://github.com/ps5-payload-dev/websrv/releases",
+    "source_direct": "https://github.com/ps5-payload-dev/websrv/releases/download/v0.30.1/websrv-ps5.elf",
+    "description": "A simple web server that accepts connections on port 8080",
+    "last_update": "2026-04-03",
+    "version": "v0.30.1",
+    "checksum": "5b5d55ba51c8b5a4fb9929f690efc4ce488f86fe3d0f22223106643be9d5c2ab"
+  },
+  {
+    "name": "klogsrv",
+    "filename": "klogsrv_v0.7.2.elf",
+    "url": "https://github.com/itsPLK/ps5_payloads/releases/download/payloads-mirror/klogsrv_v0.7.2.elf",
+    "source": "https://github.com/ps5-payload-dev/klogsrv/releases",
+    "source_direct": "https://github.com/ps5-payload-dev/klogsrv/releases/download/v0.7.2/klogsrv-ps5.elf",
+    "description": "A simple socket server that redirects /dev/klog to sockets connected on port 3232",
+    "last_update": "2026-04-02",
+    "version": "v0.7.2",
+    "checksum": "c932fd185bc0e7e24beb45ebe2ddc88940c7ff15c589ed4ae7fe6086157c69d2"
+  },
+  {
+    "name": "shsrv",
+    "filename": "shsrv_v0.18.1.elf",
+    "url": "https://github.com/itsPLK/ps5_payloads/releases/download/payloads-mirror/shsrv_v0.18.1.elf",
+    "source": "https://github.com/ps5-payload-dev/shsrv/releases",
+    "source_direct": "https://github.com/ps5-payload-dev/shsrv/releases/download/v0.18.1/shsrv-ps5.elf",
+    "description": "A simple telnet-like shell server for jailbroken PS5s that accepts connections on port 2323",
+    "last_update": "2026-04-02",
+    "version": "v0.18.1",
+    "checksum": "daab08c87c364f86dce143e6672f1f68e520760099d24a8eacf3c5c6d6c08c57"
+  },
+  {
+    "name": "elfldr",
+    "filename": "elfldr_v0.22.2.elf",
+    "url": "https://github.com/itsPLK/ps5_payloads/releases/download/payloads-mirror/elfldr_v0.22.2.elf",
+    "source": "https://github.com/ps5-payload-dev/elfldr/releases",
+    "source_direct": "https://github.com/ps5-payload-dev/elfldr/releases/download/v0.22.2/elfldr-ps5.elf",
+    "description": "An ELF loader for jailbroken PS5s that accepts payloads on port 9021",
+    "last_update": "2026-04-02",
+    "version": "v0.22.2",
+    "checksum": "b456a30d5f1d4941b985a44e06613018f608cc9c62bf992e2564494d365216cd"
+  },
+  {
+    "name": "kstuff-toggle",
+    "filename": "kstuff-toggle_0.5.elf",
+    "url": "https://github.com/itsPLK/ps5_payloads/releases/download/payloads-mirror/kstuff-toggle_0.5.elf",
+    "source": "https://github.com/EchoStretch/kstuff-toggle/releases",
+    "source_direct": "https://github.com/EchoStretch/kstuff-toggle/releases/download/0.5/kstuff-toggle.zip",
+    "extract_file": "kstuff-toggle-3.elf",
+    "description": "Boost homebrew game performance on your PS5 by disabling Kstuff after launching the game.",
+    "last_update": "2026-03-29",
+    "version": "0.5",
+    "checksum": "cc1a29f7b1b83d54416cd96f0aff001177317c7d53eefadd2637a1869ab3b605"
+  },
+  {
+    "name": "garlic-savemgr",
+    "filename": "garlic-savemgr_v1.7.elf",
+    "url": "https://github.com/itsPLK/ps5_payloads/releases/download/payloads-mirror/garlic-savemgr_v1.7.elf",
+    "source": "https://github.com/earthonion/garlic-savemgr/releases",
+    "source_direct": "https://github.com/earthonion/garlic-savemgr/releases/download/v1.7/garlic-savemgr.elf",
+    "description": "PS5 save decrypt/encrypt/browse with embedded web UI.",
+    "last_update": "2026-03-16",
+    "version": "v1.7",
+    "checksum": "124051ab3a762474720ae53187d2920bc96d6be1d69aa298e715667efc385a2f"
+  },
+  {
+    "name": "BackPork",
+    "filename": "BackPork_0.1.elf",
+    "url": "https://github.com/itsPLK/ps5_payloads/releases/download/payloads-mirror/BackPork_0.1.elf",
+    "source": "https://github.com/BestPig/BackPork/releases",
+    "source_direct": "https://github.com/BestPig/BackPork/releases/download/0.1/ps5-backpork.elf",
+    "description": "Lets you sideload system libraries into PS5 games",
+    "last_update": "2026-01-18",
+    "version": "0.1",
+    "checksum": "f76dd1885ef6aebec55e12a71b32a6bbf0e1cafb9146960a51b231fd52b914fe"
+  },
+  {
+    "name": "kstuff",
+    "filename": "kstuff_v1.6.7.elf",
+    "url": "https://github.com/itsPLK/ps5_payloads/releases/download/payloads-mirror/kstuff_v1.6.7.elf",
+    "source": "https://github.com/EchoStretch/kstuff/releases",
+    "source_direct": "https://github.com/EchoStretch/kstuff/releases/download/v1.6.7/kstuff.elf",
+    "description": "Dynamically patches the PS5 kernel to bypass security",
+    "last_update": "2026-01-04",
+    "version": "v1.6.7",
+    "checksum": "f1c1f4b2b6395644af04cbe9828aba58586acf7aacb9e01113cac92ce16e3569"
+  },
+  {
+    "name": "etaHEN",
+    "filename": "etaHEN_2.5B.bin",
+    "url": "https://github.com/itsPLK/ps5_payloads/releases/download/payloads-mirror/etaHEN_2.5B.bin",
+    "source": "https://github.com/etaHEN/etaHEN/releases",
+    "source_direct": "https://github.com/etaHEN/etaHEN/releases/download/2.5B/etaHEN-2.5B.bin",
+    "description": "AIO HEN payload",
+    "last_update": "2025-12-25",
+    "version": "2.5B",
+    "checksum": "4845cac45095361b8983b14d6690622183b0dcfbf6d7fda16e161aa91ff0531e"
+  },
+  {
+    "name": "ps5debug",
+    "filename": "ps5debug_v1.0b5.elf",
+    "url": "https://github.com/itsPLK/ps5_payloads/releases/download/payloads-mirror/ps5debug_v1.0b5.elf",
+    "source": "https://github.com/GoldHEN/ps5debug/releases",
+    "description": "PlayStation 5 Debugger",
+    "last_update": "2025-07-14",
+    "version": "v1.0b5",
+    "checksum": "9dc888f66b8dd97d1317ac7260ab9499f709ddf0cbab59db82347c0aa93aaa8a"
+  }
+]
