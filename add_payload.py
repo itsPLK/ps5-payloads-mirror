@@ -10,9 +10,9 @@ import tempfile
 import shutil
 from datetime import datetime
 
-JSON_FILE = "ps5_payloads.json"
+JSON_FILE = "payloads.json"
 PAYLOADS_DIR = "payloads"
-BASE_URL = "https://github.com/itsPLK/ps5_payloads/releases/download/payloads-mirror"
+BASE_URL = "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror"
 
 def get_repo_info(url):
     match = re.search(r"github\.com/([^/]+)/([^/]+)", url)
