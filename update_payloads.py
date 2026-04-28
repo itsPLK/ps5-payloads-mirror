@@ -80,7 +80,75 @@ def reorder_item(item):
             new_item[key] = item[key]
     return new_item
 
+def update_readme():
+    try:
+        with open(JSON_FILE, "r") as f:
+            payloads = json.load(f)
+    except FileNotFoundError:
+        print(f"Error: {JSON_FILE} not found. Cannot update README.")
+        return
+
+    table_rows = [
+        "| Payload | Version | Description | Last Updated | Source | Download |",
+        "| --- | --- | --- | --- | --- | --- |"
+    ]
+    
+    for item in payloads:
+        name = item.get("name", "Unknown")
+        version = item.get("version", "Unknown")
+        description = item.get("description", "")
+        last_update = item.get("last_update", "Unknown")
+        source = item.get("source", "#")
+        url = item.get("url", "#")
+        
+        if not description:
+            description = "No description provided."
+            
+        table_rows.append(f"| **{name}** | `{version}` | {description} | `{last_update}` | [Source]({source}) | [Download]({url}) |")
+        
+    table_content = "\n".join(table_rows)
+    readme_path = "README.md"
+    
+    template = f"""# PS5 Payloads Mirror
+
+This repository contains an automated mirror of useful payloads for the PlayStation 5.
+
+## Available Payloads
+
+<!-- PAYLOADS_START -->
+{table_content}
+<!-- PAYLOADS_END -->
+
+## Support & Suggestions
+
+If you have suggestions for a new payload to be added or if there's an important issue with some payload, please report them in the [Issues section](https://github.com/itsPLK/ps5-payloads-mirror/issues/new).
+"""
+
+    if not os.path.exists(readme_path):
+        print(f"Creating {readme_path}...")
+        with open(readme_path, "w") as f:
+            f.write(template)
+    else:
+        print(f"Updating {readme_path}...")
+        with open(readme_path, "r") as f:
+            content = f.read()
+            
+        start_marker = "<!-- PAYLOADS_START -->"
+        end_marker = "<!-- PAYLOADS_END -->"
+        
+        if start_marker in content and end_marker in content:
+            pattern = re.compile(f"{start_marker}.*?{end_marker}", re.DOTALL)
+            new_content = pattern.sub(f"{start_marker}\\n{table_content}\\n{end_marker}", content)
+            with open(readme_path, "w") as f:
+                f.write(new_content)
+        else:
+            print("Markers not found in README.md. Appending table at the end.")
+            with open(readme_path, "a") as f:
+                f.write(f"\\n## Available Payloads\\n\\n{start_marker}\\n{table_content}\\n{end_marker}\\n")
+
+
 def update_payloads():
+    os.makedirs(PAYLOADS_DIR, exist_ok=True)
     try:
         with open(JSON_FILE, "r") as f:
             payloads = json.load(f)
@@ -257,6 +325,8 @@ def update_payloads():
         print(f"\nSuccessfully updated files and sorted {JSON_FILE}")
     else:
         print(f"\nSorted {JSON_FILE} (no new files downloaded).")
+        
+    update_readme()
 
 if __name__ == "__main__":
     update_payloads()

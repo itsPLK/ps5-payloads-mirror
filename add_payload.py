@@ -9,6 +9,7 @@ import zipfile
 import tempfile
 import shutil
 from datetime import datetime
+from update_payloads import update_readme
 
 JSON_FILE = "payloads.json"
 PAYLOADS_DIR = "payloads"
@@ -209,6 +210,7 @@ def add_payload():
             json.dump(payloads, f, indent=2)
             
         print(f"\nSuccessfully added and downloaded {repo} to {JSON_FILE}")
+        update_readme()
     else:
         print("\nFailed to download the payload.")
 
