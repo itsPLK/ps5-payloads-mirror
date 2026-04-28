@@ -147,6 +147,42 @@ If you have suggestions for a new payload to be added or if there's an important
                 f.write(f"\\n## Available Payloads\\n\\n{start_marker}\\n{table_content}\\n{end_marker}\\n")
 
 
+def cleanup_release_assets():
+    print("\nChecking for stale release assets to clean up...")
+    owner = "itsPLK"
+    repo = "ps5-payloads-mirror"
+    
+    try:
+        with open(JSON_FILE, "r") as f:
+            payloads = json.load(f)
+        expected_files = {p["filename"] for p in payloads if "filename" in p}
+        
+        cmd = ["gh", "api", f"repos/{owner}/{repo}/releases/tags/payloads-mirror"]
+        result = subprocess.run(cmd, capture_output=True, text=True, check=True)
+        release_info = json.loads(result.stdout)
+        
+        assets = release_info.get("assets", [])
+        deleted_count = 0
+        for asset in assets:
+            asset_name = asset["name"]
+            asset_id = asset["id"]
+            
+            if asset_name not in expected_files:
+                print(f"  Removing stale asset: {asset_name} (ID: {asset_id})...")
+                del_cmd = ["gh", "api", "-X", "DELETE", f"repos/{owner}/{repo}/releases/assets/{asset_id}"]
+                subprocess.run(del_cmd, check=True)
+                print(f"  Successfully removed {asset_name}.")
+                deleted_count += 1
+                
+        if deleted_count == 0:
+            print("  No stale assets to remove.")
+        else:
+            print(f"  Removed {deleted_count} stale assets.")
+                
+    except Exception as e:
+        print(f"Error cleaning up release assets: {e}")
+
+
 def update_payloads():
     os.makedirs(PAYLOADS_DIR, exist_ok=True)
     try:
@@ -327,6 +363,7 @@ def update_payloads():
         print(f"\nSorted {JSON_FILE} (no new files downloaded).")
         
     update_readme()
+    cleanup_release_assets()
 
 if __name__ == "__main__":
     update_payloads()
