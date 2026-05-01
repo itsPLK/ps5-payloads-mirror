@@ -11,6 +11,17 @@
     "checksum": "d74e4cd119b2bb1fd423f2f5b1c9a7f096b3e588c753af1ab48b983d56216a52"
   },
   {
+    "name": "pldmgr",
+    "filename": "pldmgr_v0.1.0.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/pldmgr_v0.1.0.elf",
+    "source": "https://github.com/itsPLK/pldmgr/releases",
+    "source_direct": "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.1.0/pldmgr_v0.1.0.elf",
+    "description": "A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.",
+    "last_update": "2026-04-30",
+    "version": "v0.1.0",
+    "checksum": "71ef59287f1c708e3c16575574a45396d3d6ac1b5bf3ca518b1e3bf9485d224c"
+  },
+  {
     "name": "ShadowMountPlus",
     "filename": "ShadowMountPlus_1.6beta9.elf",
     "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ShadowMountPlus_1.6beta9.elf",
