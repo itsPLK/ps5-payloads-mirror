@@ -1,5 +1,16 @@
 [
   {
+    "name": "pldmgr",
+    "filename": "pldmgr_v0.1.1.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/pldmgr_v0.1.1.elf",
+    "source": "https://github.com/itsPLK/pldmgr/releases",
+    "source_direct": "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.1.1/pldmgr-v0.1.1.elf",
+    "description": "A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.",
+    "last_update": "2026-05-02",
+    "version": "v0.1.1",
+    "checksum": "33029ec7e3fb82f63839582169ab44f01650547870050e4ee8f76eaaa8733ce2"
+  },
+  {
     "name": "BackPork",
     "filename": "BackPork_0.1.elf",
     "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/BackPork_0.1.elf",
@@ -9,17 +20,6 @@
     "last_update": "2026-04-30",
     "version": "0.1",
     "checksum": "d74e4cd119b2bb1fd423f2f5b1c9a7f096b3e588c753af1ab48b983d56216a52"
-  },
-  {
-    "name": "pldmgr",
-    "filename": "pldmgr_v0.1.0.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/pldmgr_v0.1.0.elf",
-    "source": "https://github.com/itsPLK/pldmgr/releases",
-    "source_direct": "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.1.0/pldmgr_v0.1.0.elf",
-    "description": "A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.",
-    "last_update": "2026-04-30",
-    "version": "v0.1.0",
-    "checksum": "71ef59287f1c708e3c16575574a45396d3d6ac1b5bf3ca518b1e3bf9485d224c"
   },
   {
     "name": "ShadowMountPlus",

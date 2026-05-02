@@ -7,8 +7,8 @@ This repository contains an automated mirror of useful payloads for the PlayStat
 <!-- PAYLOADS_START -->
 | Payload | Version | Description | Last Updated | Source | Download |
 | --- | --- | --- | --- | --- | --- |
+| **pldmgr** | `v0.1.1` | A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5. | `2026-05-02` | [Source](https://github.com/itsPLK/pldmgr/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/pldmgr_v0.1.1.elf) |
 | **BackPork** | `0.1` | Lets you sideload system libraries into PS5 games | `2026-04-30` | [Source](https://github.com/BestPig/BackPork/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/BackPork_0.1.elf) |
-| **pldmgr** | `v0.1.0` | A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5. | `2026-04-30` | [Source](https://github.com/itsPLK/pldmgr/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/pldmgr_v0.1.0.elf) |
 | **ShadowMountPlus** | `1.6beta9` | A fully automated, background 'Auto-Mounter' payload for Jailbroken PlayStation 5 consoles. | `2026-04-16` | [Source](https://github.com/drakmor/ShadowMountPlus/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ShadowMountPlus_1.6beta9.elf) |
 | **ftpsrv** | `v0.19` | A simple FTP server that accepts connections on port 2121 | `2026-04-07` | [Source](https://github.com/ps5-payload-dev/ftpsrv/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ftpsrv_v0.19.elf) |
 | **kstuff-lite** | `v1.03` | Lite version of kstuff | `2026-04-04` | [Source](https://github.com/EchoStretch/kstuff-lite/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/kstuff-lite_v1.03.elf) |
