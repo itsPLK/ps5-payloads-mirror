@@ -7,7 +7,7 @@ This repository contains an automated mirror of useful payloads for the PlayStat
 <!-- PAYLOADS_START -->
 | Payload | Version | Description | Last Updated | Source | Download |
 | --- | --- | --- | --- | --- | --- |
-| **pldmgr** | `v0.4.2` | A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5. | `2026-07-20` | [Source](https://github.com/itsPLK/pldmgr/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/pldmgr_v0.4.2.elf) |
+| **pldmgr** | `v0.5.0` | A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5. | `2026-07-21` | [Source](https://github.com/itsPLK/pldmgr/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/pldmgr_v0.5.0.elf) |
 | **garlic-savemgr** | `v1.12` | PS5 save decrypt/encrypt/browse with embedded web UI. | `2026-07-13` | [Source](https://git.etawen.dev/earthonion/garlic-savemgr/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/garlic-savemgr_v1.12.elf) |
 | **ps5-linux-loader** | `v2.4` | Linux payload implementing HV exploits to run a custom bootloader | `2026-07-06` | [Source](https://github.com/ps5-linux/ps5-linux-loader/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-linux-loader_v2.4.elf) |
 | **kstuff-lite** | `v1.09` | Lite version of kstuff | `2026-07-04` | [Source](https://github.com/EchoStretch/kstuff-lite/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/kstuff-lite_v1.09.elf) |

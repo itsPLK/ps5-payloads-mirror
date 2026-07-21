@@ -1,15 +1,15 @@
 [
   {
     "name": "pldmgr",
-    "filename": "pldmgr_v0.4.2.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/pldmgr_v0.4.2.elf",
+    "filename": "pldmgr_v0.5.0.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/pldmgr_v0.5.0.elf",
     "source": "https://github.com/itsPLK/pldmgr/releases",
-    "source_direct": "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.4.2/pldmgr_v0.4.2.elf",
+    "source_direct": "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.5.0/pldmgr_v0.5.0.elf",
     "description": "A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.",
-    "last_update": "2026-07-20",
-    "version": "v0.4.2",
+    "last_update": "2026-07-21",
+    "version": "v0.5.0",
     "category": "Utilities & Tools",
-    "checksum": "ed6039f1f62a9de5016721e003a11da001a09695718e5b893424d9af0a5d56a2"
+    "checksum": "1fe181908027fc625147ac888288ed1bee72a378b4751d36a8a8e0582d306169"
   },
   {
     "name": "garlic-savemgr",
