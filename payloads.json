@@ -1,5 +1,17 @@
 [
   {
+    "name": "ps5-app-dumper",
+    "filename": "ps5-app-dumper_v1.11.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-app-dumper_v1.11.elf",
+    "source": "https://github.com/EchoStretch/ps5-app-dumper/releases",
+    "source_direct": "https://github.com/EchoStretch/ps5-app-dumper/releases/download/v1.11/ps5-app-dumper.elf",
+    "description": "A small utility to dump PS5 application files from the console's pfsmnt to a connected USB storage device.",
+    "last_update": "2026-07-28",
+    "version": "v1.11",
+    "category": "Utilities & Tools",
+    "checksum": "42763a6230df8ef3bf82253e9a4290e39d7c1e4b61a0a9a4477368f1d6440e1d"
+  },
+  {
     "name": "pldmgr",
     "filename": "pldmgr_v0.5.0.elf",
     "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/pldmgr_v0.5.0.elf",
@@ -193,18 +205,6 @@
     "version": "0.6",
     "category": "System & Jailbreak",
     "checksum": "a1e99f2758aea98e78a37d1a1c2f79b08187acb35c7410eec4c8f4763162768f"
-  },
-  {
-    "name": "ps5-app-dumper",
-    "filename": "ps5-app-dumper_v1.10.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-app-dumper_v1.10.elf",
-    "source": "https://github.com/EchoStretch/ps5-app-dumper/releases",
-    "source_direct": "https://github.com/EchoStretch/ps5-app-dumper/releases/download/v1.10/ps5-app-dumper.elf",
-    "description": "A small utility to dump PS5 application files from the console's pfsmnt to a connected USB storage device.",
-    "last_update": "2026-05-03",
-    "version": "v1.10",
-    "category": "Utilities & Tools",
-    "checksum": "95382a9e37987d8eb931cbe5db618e77d293099ef4314e3288d9899bd5ac5c00"
   },
   {
     "name": "BackPork",
