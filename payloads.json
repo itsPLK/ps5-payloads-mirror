@@ -146,18 +146,6 @@
     "checksum": "13559b858fc33cc7fa3dc89e10dccf139070d99ee5d378dd75c969293700799e"
   },
   {
-    "name": "kstuff-lite-dr",
-    "filename": "kstuff-lite-dr_1.2-dr-test1.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/kstuff-lite-dr_1.2-dr-test1.elf",
-    "source": "https://github.com/drakmor/kstuff-lite/releases",
-    "source_direct": "https://github.com/drakmor/kstuff-lite/releases/download/1.2-dr-test1/kstuff.elf",
-    "description": "drakmor's fork of kstuff-lite",
-    "last_update": "2026-05-31",
-    "version": "1.2-dr-test1",
-    "category": "System & Jailbreak",
-    "checksum": "9c1b242eaed3704ef18be45d001a2c4ebf2d9222cfe3cbb0f0c3db33309abac9"
-  },
-  {
     "name": "ftpsrv",
     "filename": "ftpsrv_v0.20.elf",
     "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ftpsrv_v0.20.elf",
