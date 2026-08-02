@@ -30,5 +30,9 @@
   "ps5-app-dumper_v1.10.elf": {
     "download_count": 2700,
     "deleted_at": "2026-07-28"
+  },
+  "pldmgr_v0.5.0.elf": {
+    "download_count": 5270,
+    "deleted_at": "2026-08-02"
   }
 }
