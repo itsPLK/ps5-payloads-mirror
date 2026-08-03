@@ -34,5 +34,25 @@
   "pldmgr_v0.5.0.elf": {
     "download_count": 5270,
     "deleted_at": "2026-08-02"
+  },
+  "elfldr_v0.23.elf": {
+    "download_count": 14276,
+    "deleted_at": "2026-08-03"
+  },
+  "ftpsrv_v0.20.elf": {
+    "download_count": 30235,
+    "deleted_at": "2026-08-03"
+  },
+  "klogsrv_v0.8.elf": {
+    "download_count": 3235,
+    "deleted_at": "2026-08-03"
+  },
+  "shsrv_v0.19.elf": {
+    "download_count": 1302,
+    "deleted_at": "2026-08-03"
+  },
+  "websrv_v0.33.elf": {
+    "download_count": 5211,
+    "deleted_at": "2026-08-03"
   }
 }
