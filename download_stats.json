@@ -54,5 +54,9 @@
   "websrv_v0.33.elf": {
     "download_count": 5211,
     "deleted_at": "2026-08-03"
+  },
+  "nanoDNS_0.3.elf": {
+    "download_count": 17816,
+    "deleted_at": "2026-08-09"
   }
 }

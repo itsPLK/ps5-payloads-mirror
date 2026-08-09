@@ -1,5 +1,17 @@
 [
   {
+    "name": "nanoDNS",
+    "filename": "nanoDNS_0.4.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/nanoDNS_0.4.elf",
+    "source": "https://github.com/drakmor/nanoDNS/releases",
+    "source_direct": "https://github.com/drakmor/nanoDNS/releases/download/0.4/nanodns.elf",
+    "description": "Local DNS proxy server",
+    "last_update": "2026-08-04",
+    "version": "0.4",
+    "category": "Networking & Servers",
+    "checksum": "dcb845f3570771275b22b37534bf924a7f8ae219fb91ef00c6bccab85d1c2420"
+  },
+  {
     "name": "pldmgr",
     "filename": "pldmgr_v0.5.1.elf",
     "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/pldmgr_v0.5.1.elf",
@@ -156,18 +168,6 @@
     "version": "v1.5.0",
     "category": "Networking & Servers",
     "checksum": "6cf6a738112fc339619ebe772690fa611f60ecdb20164a0e3f49e137277bc42b"
-  },
-  {
-    "name": "nanoDNS",
-    "filename": "nanoDNS_0.3.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/nanoDNS_0.3.elf",
-    "source": "https://github.com/drakmor/nanoDNS/releases",
-    "source_direct": "https://github.com/drakmor/nanoDNS/releases/download/0.3/nanodns.elf",
-    "description": "Local DNS proxy server",
-    "last_update": "2026-06-03",
-    "version": "0.3",
-    "category": "Networking & Servers",
-    "checksum": "ce1c8b31036ab948da65b362a4b6f249ffca8a555fc5bc4b051ec65d041bc944"
   },
   {
     "name": "Lapy-JB-Daemon",
