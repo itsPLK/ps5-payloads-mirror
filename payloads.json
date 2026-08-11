@@ -1,5 +1,17 @@
 [
   {
+    "name": "ps5-webkit-autoloader",
+    "filename": "ps5-webkit-autoloader_v0.1.0.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-webkit-autoloader_v0.1.0.elf",
+    "source": "https://github.com/itsPLK/ps5-webkit-autoloader/releases",
+    "source_direct": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.1.0/webkit-autoloader-installer_v0.1.0.elf",
+    "description": "Installs WebKit Autoloader on homescreen (firmwares 9.00-12.00)",
+    "last_update": "2026-08-11",
+    "version": "v0.1.0",
+    "category": "Loaders",
+    "checksum": "9bd7d73b30d590546284cea1f0f6e8ef7b4af0f3be27e8798da8cd12cbc244ad"
+  },
+  {
     "name": "nanoDNS",
     "filename": "nanoDNS_0.4.elf",
     "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/nanoDNS_0.4.elf",
