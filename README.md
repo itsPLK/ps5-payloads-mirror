@@ -7,7 +7,7 @@ This repository contains an automated mirror of useful payloads for the PlayStat
 <!-- PAYLOADS_START -->
 | Payload | Version | Description | Last Updated | Source | Download |
 | --- | --- | --- | --- | --- | --- |
-| **WebKit-Autoloader-Installer** | `v0.1.0` | Installs WebKit Autoloader on homescreen (firmwares 9.00-12.00) | `2026-08-11` | [Source](https://github.com/itsPLK/ps5-webkit-autoloader/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/WebKit-Autoloader-Installer_v0.1.0.elf) |
+| **WebKit-Autoloader-Installer** | `v0.1.1` | Installs WebKit Autoloader on homescreen (firmwares 9.00-12.00) | `2026-08-11` | [Source](https://github.com/itsPLK/ps5-webkit-autoloader/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/WebKit-Autoloader-Installer_v0.1.1.elf) |
 | **nanoDNS** | `0.4` | Local DNS proxy server | `2026-08-04` | [Source](https://github.com/drakmor/nanoDNS/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/nanoDNS_0.4.elf) |
 | **pldmgr** | `v0.5.1` | A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5. | `2026-08-02` | [Source](https://github.com/itsPLK/pldmgr/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/pldmgr_v0.5.1.elf) |
 | **websrv** | `v0.34` | A simple web server that accepts connections on port 8080 | `2026-08-02` | [Source](https://github.com/ps5-payload-dev/websrv/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/websrv_v0.34.elf) |
