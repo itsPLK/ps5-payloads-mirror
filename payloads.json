@@ -1,8 +1,8 @@
 [
   {
     "name": "WebKit-Autoloader-Installer",
-    "filename": "WebKit Autoloader Installer_v0.1.0.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/WebKit Autoloader Installer_v0.1.0.elf",
+    "filename": "WebKit-Autoloader-Installer_v0.1.0.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/WebKit-Autoloader-Installer_v0.1.0.elf",
     "source": "https://github.com/itsPLK/ps5-webkit-autoloader/releases",
     "source_direct": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.1.0/webkit-autoloader-installer_v0.1.0.elf",
     "description": "Installs WebKit Autoloader on homescreen (firmwares 9.00-12.00)",
