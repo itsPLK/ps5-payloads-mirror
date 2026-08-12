@@ -1,15 +1,15 @@
 [
   {
     "name": "WebKit-Autoloader-Installer",
-    "filename": "WebKit-Autoloader-Installer_v0.2.0.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/WebKit-Autoloader-Installer_v0.2.0.elf",
+    "filename": "WebKit-Autoloader-Installer_v0.1.1.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/WebKit-Autoloader-Installer_v0.1.1.elf",
     "source": "https://github.com/itsPLK/ps5-webkit-autoloader/releases",
-    "source_direct": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.2.0/webkit-autoloader-installer_v0.2.0.elf",
+    "source_direct": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.1.1/webkit-autoloader-installer_v0.1.1.elf",
     "description": "Installs WebKit Autoloader on homescreen (firmwares 9.00-12.00)",
-    "last_update": "2026-08-12",
-    "version": "v0.2.0",
+    "last_update": "2026-08-11",
+    "version": "v0.1.1",
     "category": "Loaders",
-    "checksum": "a477483c523b15fea00216f5f1b4a06a50414f47ab065ffd5823ca6b89776117"
+    "checksum": "162892ca3d6ae9b89764fa6447401b94e62148b21855a9b971b41458955accc1"
   },
   {
     "name": "nanoDNS",
