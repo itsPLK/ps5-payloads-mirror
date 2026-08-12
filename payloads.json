@@ -1,15 +1,27 @@
 [
   {
     "name": "WebKit-Autoloader-Installer",
-    "filename": "WebKit-Autoloader-Installer_v0.1.1.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/WebKit-Autoloader-Installer_v0.1.1.elf",
+    "filename": "WebKit-Autoloader-Installer_v0.2.1.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/WebKit-Autoloader-Installer_v0.2.1.elf",
     "source": "https://github.com/itsPLK/ps5-webkit-autoloader/releases",
-    "source_direct": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.1.1/webkit-autoloader-installer_v0.1.1.elf",
+    "source_direct": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.2.1/webkit-autoloader-installer_v0.2.1.elf",
     "description": "Installs WebKit Autoloader on homescreen (firmwares 9.00-12.00)",
-    "last_update": "2026-08-11",
-    "version": "v0.1.1",
+    "last_update": "2026-08-12",
+    "version": "v0.2.1",
     "category": "Loaders",
-    "checksum": "162892ca3d6ae9b89764fa6447401b94e62148b21855a9b971b41458955accc1"
+    "checksum": "e8cfaaf19855ae58a12394ab2277e2f878903594c6a6a84b04174324e0e92d6a"
+  },
+  {
+    "name": "kstuff-lite",
+    "filename": "kstuff-lite_v1.10.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/kstuff-lite_v1.10.elf",
+    "source": "https://github.com/EchoStretch/kstuff-lite/releases",
+    "source_direct": "https://github.com/EchoStretch/kstuff-lite/releases/download/v1.10/kstuff.elf",
+    "description": "Lite version of kstuff",
+    "last_update": "2026-08-12",
+    "version": "v1.10",
+    "category": "System & Jailbreak",
+    "checksum": "b1dfe57f367a35374f605127915eda38c76a6ed5d1c729e427955798bd78c66a"
   },
   {
     "name": "nanoDNS",
@@ -130,18 +142,6 @@
     "version": "v2.4",
     "category": "Loaders",
     "checksum": "51382795b486f7c5a3681648d457d129088311fc3f9601aeaff78dc72fafcf1d"
-  },
-  {
-    "name": "kstuff-lite",
-    "filename": "kstuff-lite_v1.09.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/kstuff-lite_v1.09.elf",
-    "source": "https://github.com/EchoStretch/kstuff-lite/releases",
-    "source_direct": "https://github.com/EchoStretch/kstuff-lite/releases/download/v1.09/kstuff.elf",
-    "description": "Lite version of kstuff",
-    "last_update": "2026-07-04",
-    "version": "v1.09",
-    "category": "System & Jailbreak",
-    "checksum": "ec5212794dc6e44ee8e70fd0549abec6d3dac8c3e03ddbeafd9f869ffe97d4e8"
   },
   {
     "name": "ShadowMountPlus",
