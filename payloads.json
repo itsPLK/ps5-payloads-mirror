@@ -1,15 +1,15 @@
 [
   {
     "name": "WebKit-Autoloader-Installer",
-    "filename": "WebKit-Autoloader-Installer_v0.2.1.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/WebKit-Autoloader-Installer_v0.2.1.elf",
+    "filename": "WebKit-Autoloader-Installer_v0.3.0.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/WebKit-Autoloader-Installer_v0.3.0.elf",
     "source": "https://github.com/itsPLK/ps5-webkit-autoloader/releases",
-    "source_direct": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.2.1/webkit-autoloader-installer_v0.2.1.elf",
+    "source_direct": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.3.0/webkit-autoloader-installer_v0.3.0.elf",
     "description": "Installs WebKit Autoloader on homescreen (firmwares 9.00-12.00)",
-    "last_update": "2026-08-12",
-    "version": "v0.2.1",
+    "last_update": "2026-08-14",
+    "version": "v0.3.0",
     "category": "Loaders",
-    "checksum": "e8cfaaf19855ae58a12394ab2277e2f878903594c6a6a84b04174324e0e92d6a"
+    "checksum": "0d4ca326cdb060a00e12b904ce46e9e3a0b935f44f261c2d63f2a0a6d7f98d57"
   },
   {
     "name": "kstuff-lite",

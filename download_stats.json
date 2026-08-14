@@ -82,5 +82,9 @@
   "kstuff-lite_v1.09.elf": {
     "download_count": 22863,
     "deleted_at": "2026-08-12"
+  },
+  "WebKit-Autoloader-Installer_v0.2.1.elf": {
+    "download_count": 2983,
+    "deleted_at": "2026-08-14"
   }
 }
