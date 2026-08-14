@@ -24,6 +24,42 @@
     "checksum": "b1dfe57f367a35374f605127915eda38c76a6ed5d1c729e427955798bd78c66a"
   },
   {
+    "name": "ps5upload",
+    "filename": "ps5upload_v5.2.1.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v5.2.1.elf",
+    "source": "https://github.com/phantomptr/ps5upload/releases",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.2.1/ps5upload-5.2.1.elf",
+    "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
+    "last_update": "2026-08-12",
+    "version": "v5.2.1",
+    "category": "Utilities & Tools",
+    "checksum": "0c23f88146a314c922953c326bc26d1a8adb871ba3244b76ce4cb6eca43977b3"
+  },
+  {
+    "name": "ps5-web-file-manager",
+    "filename": "ps5-web-file-manager_v1.4.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-web-file-manager_v1.4.elf",
+    "source": "https://github.com/owendswang/ps5-web-file-manager/releases",
+    "source_direct": "https://github.com/owendswang/ps5-web-file-manager/releases/download/v1.4/web-file-mgr-v1.4.elf",
+    "description": "A file manager for PS5 with a web UI",
+    "last_update": "2026-08-11",
+    "version": "v1.4",
+    "category": "Utilities & Tools",
+    "checksum": "1f44ff7190395148d3ff83f348a15ea25e203d23f92dce421b6dda5197427164"
+  },
+  {
+    "name": "BFpilot",
+    "filename": "BFpilot_v0.4.4.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/BFpilot_v0.4.4.elf",
+    "source": "https://github.com/ItsBlurf/BFpilot/releases",
+    "source_direct": "https://github.com/ItsBlurf/BFpilot/releases/download/v0.4.4/bfpilot.elf",
+    "description": "Lightweight PS5 file manager, browser based",
+    "last_update": "2026-08-11",
+    "version": "v0.4.4",
+    "category": "Utilities & Tools",
+    "checksum": "5a8237630260026ad054d71fbbe661e433ac9ffa2cb4eea2785769c1eb7ee1c1"
+  },
+  {
     "name": "nanoDNS",
     "filename": "nanoDNS_0.4.elf",
     "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/nanoDNS_0.4.elf",
@@ -106,6 +142,18 @@
     "version": "v0.24",
     "category": "Loaders",
     "checksum": "e23313367cf59a9b0a09e34eb59e435e2c387de418e557d65bf578b7744942a5"
+  },
+  {
+    "name": "CheatRunner",
+    "filename": "CheatRunner_v0.17.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/CheatRunner_v0.17.elf",
+    "source": "https://github.com/notmaj0r/CheatRunner/releases",
+    "source_direct": "https://github.com/notmaj0r/CheatRunner/releases/download/v0.17/CheatRunner.elf",
+    "description": "Web-based game cheat trainer",
+    "last_update": "2026-07-30",
+    "version": "v0.17",
+    "category": "Utilities & Tools",
+    "checksum": "2f296d3f1e69b65439bb5dc362f0f6504f6dc9f245fa16a3683e9d7ec9533773"
   },
   {
     "name": "ps5-app-dumper",
