@@ -1,5 +1,17 @@
 [
   {
+    "name": "ps5-web-file-manager",
+    "filename": "ps5-web-file-manager_v1.5.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-web-file-manager_v1.5.elf",
+    "source": "https://github.com/owendswang/ps5-web-file-manager/releases",
+    "source_direct": "https://github.com/owendswang/ps5-web-file-manager/releases/download/v1.5/web-file-mgr-v1.5.elf",
+    "description": "A file manager for PS5 with a web UI",
+    "last_update": "2026-08-17",
+    "version": "v1.5",
+    "category": "Utilities & Tools",
+    "checksum": "9a7d7e5c685900d7f916cdc08cb6f7ea7e9cf5a4576f2799157b3f251deedf3c"
+  },
+  {
     "name": "WebKit-Autoloader-Installer",
     "filename": "WebKit-Autoloader-Installer_v0.3.0.elf",
     "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/WebKit-Autoloader-Installer_v0.3.0.elf",
@@ -34,18 +46,6 @@
     "version": "v5.2.1",
     "category": "Networking & Servers",
     "checksum": "0c23f88146a314c922953c326bc26d1a8adb871ba3244b76ce4cb6eca43977b3"
-  },
-  {
-    "name": "ps5-web-file-manager",
-    "filename": "ps5-web-file-manager_v1.4.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-web-file-manager_v1.4.elf",
-    "source": "https://github.com/owendswang/ps5-web-file-manager/releases",
-    "source_direct": "https://github.com/owendswang/ps5-web-file-manager/releases/download/v1.4/web-file-mgr-v1.4.elf",
-    "description": "A file manager for PS5 with a web UI",
-    "last_update": "2026-08-11",
-    "version": "v1.4",
-    "category": "Utilities & Tools",
-    "checksum": "1f44ff7190395148d3ff83f348a15ea25e203d23f92dce421b6dda5197427164"
   },
   {
     "name": "BFpilot",
