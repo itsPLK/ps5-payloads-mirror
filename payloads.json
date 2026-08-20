@@ -1,5 +1,29 @@
 [
   {
+    "name": "WebKit-Autoloader-Installer",
+    "filename": "WebKit-Autoloader-Installer_v0.3.1.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/WebKit-Autoloader-Installer_v0.3.1.elf",
+    "source": "https://github.com/itsPLK/ps5-webkit-autoloader/releases",
+    "source_direct": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.3.1/webkit-autoloader-installer_v0.3.1.elf",
+    "description": "Installs WebKit Autoloader on homescreen (FW 1.00-5.50 & 9.00-12.00)",
+    "last_update": "2026-08-19",
+    "version": "v0.3.1",
+    "category": "Loaders",
+    "checksum": "69beea7c4460d283606889f7ae1685f32e8fb7203274c279eeefa97fe4f1eb17"
+  },
+  {
+    "name": "ps5upload",
+    "filename": "ps5upload_v5.3.3.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v5.3.3.elf",
+    "source": "https://github.com/phantomptr/ps5upload/releases",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.3.3/ps5upload-5.3.3.elf",
+    "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
+    "last_update": "2026-08-19",
+    "version": "v5.3.3",
+    "category": "Networking & Servers",
+    "checksum": "1b19e30742068581334d5e936f7416ddcb9fdcabb6acbc89c39aba6993f987e0"
+  },
+  {
     "name": "ps5-web-file-manager",
     "filename": "ps5-web-file-manager_v1.5.elf",
     "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-web-file-manager_v1.5.elf",
@@ -12,18 +36,6 @@
     "checksum": "9a7d7e5c685900d7f916cdc08cb6f7ea7e9cf5a4576f2799157b3f251deedf3c"
   },
   {
-    "name": "WebKit-Autoloader-Installer",
-    "filename": "WebKit-Autoloader-Installer_v0.3.0.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/WebKit-Autoloader-Installer_v0.3.0.elf",
-    "source": "https://github.com/itsPLK/ps5-webkit-autoloader/releases",
-    "source_direct": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.3.0/webkit-autoloader-installer_v0.3.0.elf",
-    "description": "Installs WebKit Autoloader on homescreen (FW 1.00-5.50 & 9.00-12.00)",
-    "last_update": "2026-08-14",
-    "version": "v0.3.0",
-    "category": "Loaders",
-    "checksum": "0d4ca326cdb060a00e12b904ce46e9e3a0b935f44f261c2d63f2a0a6d7f98d57"
-  },
-  {
     "name": "kstuff-lite",
     "filename": "kstuff-lite_v1.10.elf",
     "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/kstuff-lite_v1.10.elf",
@@ -34,18 +46,6 @@
     "version": "v1.10",
     "category": "System & Jailbreak",
     "checksum": "b1dfe57f367a35374f605127915eda38c76a6ed5d1c729e427955798bd78c66a"
-  },
-  {
-    "name": "ps5upload",
-    "filename": "ps5upload_v5.2.1.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v5.2.1.elf",
-    "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.2.1/ps5upload-5.2.1.elf",
-    "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
-    "last_update": "2026-08-12",
-    "version": "v5.2.1",
-    "category": "Networking & Servers",
-    "checksum": "0c23f88146a314c922953c326bc26d1a8adb871ba3244b76ce4cb6eca43977b3"
   },
   {
     "name": "BFpilot",

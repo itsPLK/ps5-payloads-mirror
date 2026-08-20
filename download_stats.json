@@ -90,5 +90,13 @@
   "ps5-web-file-manager_v1.4.elf": {
     "download_count": 1352,
     "deleted_at": "2026-08-18"
+  },
+  "ps5upload_v5.2.1.elf": {
+    "download_count": 2101,
+    "deleted_at": "2026-08-20"
+  },
+  "WebKit-Autoloader-Installer_v0.3.0.elf": {
+    "download_count": 6918,
+    "deleted_at": "2026-08-20"
   }
 }
