@@ -98,5 +98,13 @@
   "WebKit-Autoloader-Installer_v0.3.0.elf": {
     "download_count": 6918,
     "deleted_at": "2026-08-20"
+  },
+  "ftpsrv_v0.21.elf": {
+    "download_count": 11837,
+    "deleted_at": "2026-08-21"
+  },
+  "ps5upload_v5.3.3.elf": {
+    "download_count": 504,
+    "deleted_at": "2026-08-21"
   }
 }

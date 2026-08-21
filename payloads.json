@@ -1,5 +1,29 @@
 [
   {
+    "name": "ps5upload",
+    "filename": "ps5upload_v5.4.7.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v5.4.7.elf",
+    "source": "https://github.com/phantomptr/ps5upload/releases",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.4.7/ps5upload-5.4.7.elf",
+    "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
+    "last_update": "2026-08-21",
+    "version": "v5.4.7",
+    "category": "Networking & Servers",
+    "checksum": "95b1671a662ad37ef9a51587dba18bfc7f0a614ad49435ef777ecfcc6f8a25a2"
+  },
+  {
+    "name": "ftpsrv",
+    "filename": "ftpsrv_v0.21.1.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ftpsrv_v0.21.1.elf",
+    "source": "https://github.com/ps5-payload-dev/ftpsrv/releases",
+    "source_direct": "https://github.com/ps5-payload-dev/ftpsrv/releases/download/v0.21.1/ftpsrv-ps5.elf",
+    "description": "A simple FTP server that accepts connections on port 2121",
+    "last_update": "2026-08-20",
+    "version": "v0.21.1",
+    "category": "Networking & Servers",
+    "checksum": "7d4b31c83eae4e056580482a3a074e1db25922efc74ac1e439473b45d71a5938"
+  },
+  {
     "name": "WebKit-Autoloader-Installer",
     "filename": "WebKit-Autoloader-Installer_v0.3.1.elf",
     "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/WebKit-Autoloader-Installer_v0.3.1.elf",
@@ -10,18 +34,6 @@
     "version": "v0.3.1",
     "category": "Loaders",
     "checksum": "69beea7c4460d283606889f7ae1685f32e8fb7203274c279eeefa97fe4f1eb17"
-  },
-  {
-    "name": "ps5upload",
-    "filename": "ps5upload_v5.3.3.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v5.3.3.elf",
-    "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.3.3/ps5upload-5.3.3.elf",
-    "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
-    "last_update": "2026-08-19",
-    "version": "v5.3.3",
-    "category": "Networking & Servers",
-    "checksum": "1b19e30742068581334d5e936f7416ddcb9fdcabb6acbc89c39aba6993f987e0"
   },
   {
     "name": "ps5-web-file-manager",
@@ -106,18 +118,6 @@
     "version": "v0.20",
     "category": "Networking & Servers",
     "checksum": "fa4ccb2587bb61be317df0d001f668b17ebf9b4aafad87acf691b1fb8da0bd2d"
-  },
-  {
-    "name": "ftpsrv",
-    "filename": "ftpsrv_v0.21.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ftpsrv_v0.21.elf",
-    "source": "https://github.com/ps5-payload-dev/ftpsrv/releases",
-    "source_direct": "https://github.com/ps5-payload-dev/ftpsrv/releases/download/v0.21/ftpsrv-ps5.elf",
-    "description": "A simple FTP server that accepts connections on port 2121",
-    "last_update": "2026-08-02",
-    "version": "v0.21",
-    "category": "Networking & Servers",
-    "checksum": "c580f0534ac6349dc5a4a5c656eaced537b4c2b18da51886d943cea6393436c8"
   },
   {
     "name": "klogsrv",
