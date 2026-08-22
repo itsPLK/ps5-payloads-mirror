@@ -1,15 +1,15 @@
 [
   {
     "name": "ps5upload",
-    "filename": "ps5upload_v5.4.7.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v5.4.7.elf",
+    "filename": "ps5upload_v5.4.8.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v5.4.8.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.4.7/ps5upload-5.4.7.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.4.8/ps5upload-5.4.8.elf",
     "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
     "last_update": "2026-08-21",
-    "version": "v5.4.7",
+    "version": "v5.4.8",
     "category": "Networking & Servers",
-    "checksum": "95b1671a662ad37ef9a51587dba18bfc7f0a614ad49435ef777ecfcc6f8a25a2"
+    "checksum": "b255217ffcb5bc93a0ecdd4612927f241fbef3b3f936874223fcfba4cff17cf5"
   },
   {
     "name": "ftpsrv",
