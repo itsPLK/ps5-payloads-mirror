@@ -110,5 +110,17 @@
   "ps5upload_v5.4.7.elf": {
     "download_count": 543,
     "deleted_at": "2026-08-22"
+  },
+  "elfldr_v0.24.elf": {
+    "download_count": 6741,
+    "deleted_at": "2026-08-23"
+  },
+  "garlic-savemgr_v1.12.elf": {
+    "download_count": 7563,
+    "deleted_at": "2026-08-23"
+  },
+  "ps5upload_v5.4.8.elf": {
+    "download_count": 606,
+    "deleted_at": "2026-08-23"
   }
 }

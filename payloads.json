@@ -1,15 +1,39 @@
 [
   {
     "name": "ps5upload",
-    "filename": "ps5upload_v5.4.8.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v5.4.8.elf",
+    "filename": "ps5upload_v5.4.9.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v5.4.9.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.4.8/ps5upload-5.4.8.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.4.9/ps5upload-5.4.9.elf",
     "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
-    "last_update": "2026-08-21",
-    "version": "v5.4.8",
+    "last_update": "2026-08-23",
+    "version": "v5.4.9",
     "category": "Networking & Servers",
-    "checksum": "b255217ffcb5bc93a0ecdd4612927f241fbef3b3f936874223fcfba4cff17cf5"
+    "checksum": "e3e40a8318a6c35c3c362f326b07559df8514c15193e2fed280d4014ca8b9d9a"
+  },
+  {
+    "name": "elfldr",
+    "filename": "elfldr_v0.25.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/elfldr_v0.25.elf",
+    "source": "https://github.com/ps5-payload-dev/elfldr/releases",
+    "source_direct": "https://github.com/ps5-payload-dev/elfldr/releases/download/v0.25/elfldr-ps5.elf",
+    "description": "An ELF loader for jailbroken PS5s that accepts payloads on port 9021",
+    "last_update": "2026-08-22",
+    "version": "v0.25",
+    "category": "Loaders",
+    "checksum": "de70a47e6d099dc03718c33c158a727f1340c3b5310155618c5049ab0fb41754"
+  },
+  {
+    "name": "garlic-savemgr",
+    "filename": "garlic-savemgr_v1.13.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/garlic-savemgr_v1.13.elf",
+    "source": "https://git.etawen.dev/earthonion/garlic-savemgr/releases",
+    "source_direct": "https://git.etawen.dev/earthonion/garlic-savemgr/releases/download/v1.13/garlic-savemgr.elf",
+    "description": "PS5 save decrypt/encrypt/browse with embedded web UI.",
+    "last_update": "2026-08-22",
+    "version": "v1.13",
+    "category": "Utilities & Tools",
+    "checksum": "b6d366f4101fa2fcc14a353d083ef7e45e1cc86ef457bb20502bd8680dce4d73"
   },
   {
     "name": "ftpsrv",
@@ -132,18 +156,6 @@
     "checksum": "e828ec144231f81547cb58bc7d2c396fa984be0c2295f31364b58017816dcceb"
   },
   {
-    "name": "elfldr",
-    "filename": "elfldr_v0.24.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/elfldr_v0.24.elf",
-    "source": "https://github.com/ps5-payload-dev/elfldr/releases",
-    "source_direct": "https://github.com/ps5-payload-dev/elfldr/releases/download/v0.24/elfldr-ps5.elf",
-    "description": "An ELF loader for jailbroken PS5s that accepts payloads on port 9021",
-    "last_update": "2026-08-02",
-    "version": "v0.24",
-    "category": "Loaders",
-    "checksum": "e23313367cf59a9b0a09e34eb59e435e2c387de418e557d65bf578b7744942a5"
-  },
-  {
     "name": "CheatRunner",
     "filename": "CheatRunner_v0.17.elf",
     "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/CheatRunner_v0.17.elf",
@@ -166,18 +178,6 @@
     "version": "v1.11",
     "category": "Utilities & Tools",
     "checksum": "42763a6230df8ef3bf82253e9a4290e39d7c1e4b61a0a9a4477368f1d6440e1d"
-  },
-  {
-    "name": "garlic-savemgr",
-    "filename": "garlic-savemgr_v1.12.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/garlic-savemgr_v1.12.elf",
-    "source": "https://git.etawen.dev/earthonion/garlic-savemgr/releases",
-    "source_direct": "https://git.etawen.dev/earthonion/garlic-savemgr/releases/download/v1.12/garlic-savemgr.elf",
-    "description": "PS5 save decrypt/encrypt/browse with embedded web UI.",
-    "last_update": "2026-07-13",
-    "version": "v1.12",
-    "category": "Utilities & Tools",
-    "checksum": "245150007dd2c48da6d0fdf791396a31434095e27f0175587b7b18ec3b8d6d5d"
   },
   {
     "name": "ps5-linux-loader",
