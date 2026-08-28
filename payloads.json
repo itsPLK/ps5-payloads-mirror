@@ -1,15 +1,15 @@
 [
   {
     "name": "ps5upload",
-    "filename": "ps5upload_v5.10.1.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v5.10.1.elf",
+    "filename": "ps5upload_v5.12.1.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v5.12.1.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.10.1/ps5upload-5.10.1.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.12.1/ps5upload-5.12.1.elf",
     "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
-    "last_update": "2026-08-27",
-    "version": "v5.10.1",
+    "last_update": "2026-08-28",
+    "version": "v5.12.1",
     "category": "Networking & Servers",
-    "checksum": "e75fed238df0659a47af4fba150433f10988537d6a6541ee56be112979aced91"
+    "checksum": "993206c6cce3457f888efa4bdc0067058cc7116366e31f4245ea7a4e505d8f49"
   },
   {
     "name": "WebKit-Autoloader-Installer",
