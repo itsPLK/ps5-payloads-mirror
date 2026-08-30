@@ -1,15 +1,39 @@
 [
   {
     "name": "ps5upload",
-    "filename": "ps5upload_v5.12.1.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v5.12.1.elf",
+    "filename": "ps5upload_v5.14.0.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v5.14.0.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.12.1/ps5upload-5.12.1.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.14.0/ps5upload-5.14.0.elf",
     "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
-    "last_update": "2026-08-28",
-    "version": "v5.12.1",
+    "last_update": "2026-08-29",
+    "version": "v5.14.0",
     "category": "Networking & Servers",
-    "checksum": "993206c6cce3457f888efa4bdc0067058cc7116366e31f4245ea7a4e505d8f49"
+    "checksum": "c07f250cce8a0c8762dde0b73725fc710e62f0a0b54495eeeda9d44fd62a4dd8"
+  },
+  {
+    "name": "ps5-web-file-manager",
+    "filename": "ps5-web-file-manager_v1.7.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-web-file-manager_v1.7.elf",
+    "source": "https://github.com/owendswang/ps5-web-file-manager/releases",
+    "source_direct": "https://github.com/owendswang/ps5-web-file-manager/releases/download/v1.7/web-file-mgr-v1.7.elf",
+    "description": "A file manager for PS5 with a web UI",
+    "last_update": "2026-08-29",
+    "version": "v1.7",
+    "category": "Utilities & Tools",
+    "checksum": "07c1f65d855fc4eb905b37ef990baf25a6a8b21da13590cd21b3e4b7d10ff4e1"
+  },
+  {
+    "name": "elfldr",
+    "filename": "elfldr_v0.26.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/elfldr_v0.26.elf",
+    "source": "https://github.com/ps5-payload-dev/elfldr/releases",
+    "source_direct": "https://github.com/ps5-payload-dev/elfldr/releases/download/v0.26/elfldr-ps5.elf",
+    "description": "An ELF loader for jailbroken PS5s that accepts payloads on port 9021",
+    "last_update": "2026-08-29",
+    "version": "v0.26",
+    "category": "Loaders",
+    "checksum": "ed6d587a057c09d6a95b2176e336d9ffc605e547ac56462128b029e47b8ccea1"
   },
   {
     "name": "WebKit-Autoloader-Installer",
@@ -22,30 +46,6 @@
     "version": "v0.4.0",
     "category": "Loaders",
     "checksum": "179d5e52ec3e0f595900b40883c0e10cc1fba1efc275a547f47e828d45d05915"
-  },
-  {
-    "name": "ps5-web-file-manager",
-    "filename": "ps5-web-file-manager_v1.6.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-web-file-manager_v1.6.elf",
-    "source": "https://github.com/owendswang/ps5-web-file-manager/releases",
-    "source_direct": "https://github.com/owendswang/ps5-web-file-manager/releases/download/v1.6/web-file-mgr-v1.6.elf",
-    "description": "A file manager for PS5 with a web UI",
-    "last_update": "2026-08-23",
-    "version": "v1.6",
-    "category": "Utilities & Tools",
-    "checksum": "3b2bd4f8c86b125d703fda5806d732580de7b9fc453a3fa831743366239ace62"
-  },
-  {
-    "name": "elfldr",
-    "filename": "elfldr_v0.25.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/elfldr_v0.25.elf",
-    "source": "https://github.com/ps5-payload-dev/elfldr/releases",
-    "source_direct": "https://github.com/ps5-payload-dev/elfldr/releases/download/v0.25/elfldr-ps5.elf",
-    "description": "An ELF loader for jailbroken PS5s that accepts payloads on port 9021",
-    "last_update": "2026-08-22",
-    "version": "v0.25",
-    "category": "Loaders",
-    "checksum": "de70a47e6d099dc03718c33c158a727f1340c3b5310155618c5049ab0fb41754"
   },
   {
     "name": "garlic-savemgr",

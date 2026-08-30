@@ -134,5 +134,17 @@
   "ps5upload_v5.10.1.elf": {
     "download_count": 462,
     "deleted_at": "2026-08-28"
+  },
+  "elfldr_v0.25.elf": {
+    "download_count": 3446,
+    "deleted_at": "2026-08-30"
+  },
+  "ps5-web-file-manager_v1.6.elf": {
+    "download_count": 2187,
+    "deleted_at": "2026-08-30"
+  },
+  "ps5upload_v5.12.1.elf": {
+    "download_count": 948,
+    "deleted_at": "2026-08-30"
   }
 }
