@@ -1,15 +1,15 @@
 [
   {
     "name": "ps5upload",
-    "filename": "ps5upload_v5.14.0.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v5.14.0.elf",
+    "filename": "ps5upload_v5.15.0.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v5.15.0.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.14.0/ps5upload-5.14.0.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.15.0/ps5upload-5.15.0.elf",
     "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
-    "last_update": "2026-08-29",
-    "version": "v5.14.0",
+    "last_update": "2026-09-01",
+    "version": "v5.15.0",
     "category": "Networking & Servers",
-    "checksum": "c07f250cce8a0c8762dde0b73725fc710e62f0a0b54495eeeda9d44fd62a4dd8"
+    "checksum": "b29550bd64d8a8e204ac8bf4b982e84d3d96db73976b156e3c7fddf8a77ea8db"
   },
   {
     "name": "ps5-web-file-manager",
