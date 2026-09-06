@@ -150,5 +150,13 @@
   "ps5upload_v5.14.0.elf": {
     "download_count": 1306,
     "deleted_at": "2026-09-02"
+  },
+  "ps5-linux-loader_v2.4.elf": {
+    "download_count": 3249,
+    "deleted_at": "2026-09-06"
+  },
+  "ps5upload_v5.15.0.elf": {
+    "download_count": 1450,
+    "deleted_at": "2026-09-06"
   }
 }
