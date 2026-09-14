@@ -7,7 +7,7 @@ This repository contains an automated mirror of useful payloads for the PlayStat
 <!-- PAYLOADS_START -->
 | Payload | Version | Description | Last Updated | Source | Download |
 | --- | --- | --- | --- | --- | --- |
-| **ps5upload** | `v5.25.0` | Fast, reliable transfers from your computer to your PS5 (requires PC app) | `2026-09-13` | [Source](https://github.com/phantomptr/ps5upload/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v5.25.0.elf) |
+| **ps5upload** | `v5.26.0` | Fast, reliable transfers from your computer to your PS5 (requires PC app) | `2026-09-13` | [Source](https://github.com/phantomptr/ps5upload/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v5.26.0.elf) |
 | **ps5-web-file-manager** | `v1.8` | A file manager for PS5 with a web UI | `2026-09-08` | [Source](https://github.com/owendswang/ps5-web-file-manager/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-web-file-manager_v1.8.elf) |
 | **ps5-linux-loader** | `v2.5` | Linux payload implementing HV exploits to run a custom bootloader | `2026-09-05` | [Source](https://github.com/ps5-linux/ps5-linux-loader/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-linux-loader_v2.5.elf) |
 | **elfldr** | `v0.26` | An ELF loader for jailbroken PS5s that accepts payloads on port 9021 | `2026-08-29` | [Source](https://github.com/ps5-payload-dev/elfldr/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/elfldr_v0.26.elf) |
