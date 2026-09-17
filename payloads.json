@@ -1,5 +1,17 @@
 [
   {
+    "name": "PKG-Manager",
+    "filename": "PKG-Manager_v1.0.0.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/PKG-Manager_v1.0.0.elf",
+    "source": "https://github.com/itsPLK/ps5-pkg-manager/releases",
+    "source_direct": "https://github.com/itsPLK/ps5-pkg-manager/releases/download/v1.0.0/pkgmgr_v1.0.0.elf",
+    "description": "Browse and install PKGs from USB, disc, or SMB shares directly on your PS5",
+    "last_update": "2026-09-17",
+    "version": "v1.0.0",
+    "category": "Utilities & Tools",
+    "checksum": "51d3f13a91d007019f3262e1bd8ccc8ba3cbea6b1b6534b8e86df6bd2e0efb4b"
+  },
+  {
     "name": "ps5-web-file-manager",
     "filename": "ps5-web-file-manager_v1.9.elf",
     "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-web-file-manager_v1.9.elf",
@@ -22,6 +34,18 @@
     "version": "v5.28.0",
     "category": "Networking & Servers",
     "checksum": "e5937396055234122e21fa39ebc88287a8de916dbf541d5739b376e74ff882a3"
+  },
+  {
+    "name": "onionHEN",
+    "filename": "onionHEN_v0.0.13.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/onionHEN_v0.0.13.elf",
+    "source": "https://github.com/aydencharles/onionHEN/releases",
+    "source_direct": "https://github.com/aydencharles/onionHEN/releases/download/v0.0.13/OnionHEN.elf",
+    "description": "A homebrew enabler and Toolbox for jailbroken PS5 consoles, built on etaHEN",
+    "last_update": "2026-09-11",
+    "version": "v0.0.13",
+    "category": "System & Jailbreak",
+    "checksum": "aa3f98847948e2ae8ea600c3f437e28247a0a4f8b73651a046d2859924bf97b3"
   },
   {
     "name": "ps5-linux-loader",
