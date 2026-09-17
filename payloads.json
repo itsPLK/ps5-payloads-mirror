@@ -1,5 +1,17 @@
 [
   {
+    "name": "ps5-web-file-manager",
+    "filename": "ps5-web-file-manager_v1.9.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-web-file-manager_v1.9.elf",
+    "source": "https://github.com/owendswang/ps5-web-file-manager/releases",
+    "source_direct": "https://github.com/owendswang/ps5-web-file-manager/releases/download/v1.9/wfm-7zip-helper.elf",
+    "description": "A file manager for PS5 with a web UI",
+    "last_update": "2026-09-16",
+    "version": "v1.9",
+    "category": "Utilities & Tools",
+    "checksum": "7a6369489143c2b8887331a7235a6a77dd5667c794c4234973f8159fed92fe24"
+  },
+  {
     "name": "ps5upload",
     "filename": "ps5upload_v5.28.0.elf",
     "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v5.28.0.elf",
@@ -10,18 +22,6 @@
     "version": "v5.28.0",
     "category": "Networking & Servers",
     "checksum": "e5937396055234122e21fa39ebc88287a8de916dbf541d5739b376e74ff882a3"
-  },
-  {
-    "name": "ps5-web-file-manager",
-    "filename": "ps5-web-file-manager_v1.8.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-web-file-manager_v1.8.elf",
-    "source": "https://github.com/owendswang/ps5-web-file-manager/releases",
-    "source_direct": "https://github.com/owendswang/ps5-web-file-manager/releases/download/v1.8/wfm-7zip-helper.elf",
-    "description": "A file manager for PS5 with a web UI",
-    "last_update": "2026-09-08",
-    "version": "v1.8",
-    "category": "Utilities & Tools",
-    "checksum": "63b39c35cc2fa236d4511cd1782d41cb87ec08dfdf57e15fdcfe97b414896972"
   },
   {
     "name": "ps5-linux-loader",
