@@ -231,7 +231,7 @@ def cleanup_and_record_stats():
         print(f"Error cleaning up release assets: {e}")
 
 
-def update_payloads():
+def update_payloads(target_name=None):
     os.makedirs(PAYLOADS_DIR, exist_ok=True)
     try:
         with open(JSON_FILE, "r") as f:
@@ -244,6 +244,9 @@ def update_payloads():
 
     updated = False
     for item in payloads:
+        if target_name and item.get("name") != target_name:
+            continue
+
         source = item.get("source")
         if not source:
             # Handle ps5debug case
@@ -291,20 +294,63 @@ def update_payloads():
                 score += 10
             if "ps4" in name_lower:
                 score -= 10
-            if "install" in name_lower:
+            
+            repo_or_item_name = f"{repo_name} {item.get('name', '')}".lower()
+            if "install" in name_lower and "install" not in repo_or_item_name:
                 score -= 5
+            if "helper" in name_lower and "helper" not in repo_or_item_name:
+                score -= 10
+            if "stub" in name_lower and "stub" not in repo_or_item_name:
+                score -= 10
+            
+            raw_words = re.findall(r'[a-z0-9]+', repo_or_item_name)
+            meaningful_words = [w for w in raw_words if len(w) > 2 and w not in {"ps5", "ps4", "release", "payload"}]
+            for w in meaningful_words:
+                if w in name_lower:
+                    score += 3
+
             score -= len(name) / 100.0 
             return score
 
+        prev_source = item.get("source_direct", "")
+        prev_name = prev_source.split("/")[-1] if prev_source else None
+        old_version = item.get("version")
+        new_version = release["tag_name"]
+
+        # 1. First check if only the version part of the last file name changed
         selected_asset = None
-        best_score = -2
-        for asset in assets:
-            score = score_asset(asset["name"])
-            if score > best_score:
-                best_score = score
-                selected_asset = asset
+        if prev_name and old_version and new_version and not any(bad in prev_name.lower() for bad in ["helper", "stub"]):
+            old_raw = old_version.lstrip("v")
+            new_raw = new_version.lstrip("v")
+            expected_names = [
+                prev_name.replace(old_version, new_version),
+                prev_name.replace(old_raw, new_raw),
+                prev_name.replace("v" + old_raw, "v" + new_raw),
+                prev_name.replace(old_raw, "v" + new_raw),
+                prev_name.replace("v" + old_raw, new_raw),
+                prev_name
+            ]
+            for exp in expected_names:
+                for asset in assets:
+                    if asset["name"] == exp:
+                        if not asset_pattern or re.search(asset_pattern, asset["name"], re.IGNORECASE):
+                            selected_asset = asset
+                            break
+                if selected_asset:
+                    break
+
+        # 2. Fallback to scoring if no direct version match
+        if not selected_asset:
+            best_score = -2
+            for asset in assets:
+                score = score_asset(asset["name"])
+                if score > best_score:
+                    best_score = score
+                    selected_asset = asset
+            if best_score <= -1:
+                selected_asset = None
         
-        if selected_asset and best_score > -1:
+        if selected_asset:
             gh_url = selected_asset["browser_download_url"]
             original_filename = selected_asset["name"]
             new_version = release["tag_name"]
@@ -326,6 +372,7 @@ def update_payloads():
             needs_download = (
                 item.get("version") != new_version or 
                 item.get("filename") != new_filename or
+                item.get("source_direct") != gh_url or
                 new_filename not in mirror_assets
             )
             
@@ -417,7 +464,9 @@ def update_payloads():
         print(f"\nSorted {JSON_FILE} (no new files downloaded).")
         
     update_readme()
-    cleanup_and_record_stats()
+    if not target_name:
+        cleanup_and_record_stats()
 
 if __name__ == "__main__":
-    update_payloads()
+    target = sys.argv[1] if len(sys.argv) > 1 else None
+    update_payloads(target)

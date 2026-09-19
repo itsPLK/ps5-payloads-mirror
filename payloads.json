@@ -16,12 +16,12 @@
     "filename": "ps5-web-file-manager_v1.9.elf",
     "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-web-file-manager_v1.9.elf",
     "source": "https://github.com/owendswang/ps5-web-file-manager/releases",
-    "source_direct": "https://github.com/owendswang/ps5-web-file-manager/releases/download/v1.9/wfm-7zip-helper.elf",
+    "source_direct": "https://github.com/owendswang/ps5-web-file-manager/releases/download/v1.9/web-file-mgr-v1.9.elf",
     "description": "A file manager for PS5 with a web UI",
     "last_update": "2026-09-16",
     "version": "v1.9",
     "category": "Utilities & Tools",
-    "checksum": "7a6369489143c2b8887331a7235a6a77dd5667c794c4234973f8159fed92fe24"
+    "checksum": "711cb076e887fcd55d973ade8b84bb6c22720be295bfde18e32761f6e0479a3e"
   },
   {
     "name": "ps5upload",
