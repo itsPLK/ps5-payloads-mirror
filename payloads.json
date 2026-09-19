@@ -1,5 +1,17 @@
 [
   {
+    "name": "ps5upload",
+    "filename": "ps5upload_v5.30.0.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v5.30.0.elf",
+    "source": "https://github.com/phantomptr/ps5upload/releases",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.30.0/ps5upload-5.30.0.elf",
+    "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
+    "last_update": "2026-09-18",
+    "version": "v5.30.0",
+    "category": "Networking & Servers",
+    "checksum": "5d459934a2e8dac8e1a21104db8c1632809d2f45bb2f9a5a0395317d44de32c8"
+  },
+  {
     "name": "PKG-Manager",
     "filename": "PKG-Manager_v1.0.0.elf",
     "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/PKG-Manager_v1.0.0.elf",
@@ -22,18 +34,6 @@
     "version": "v1.9",
     "category": "Utilities & Tools",
     "checksum": "711cb076e887fcd55d973ade8b84bb6c22720be295bfde18e32761f6e0479a3e"
-  },
-  {
-    "name": "ps5upload",
-    "filename": "ps5upload_v5.28.0.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v5.28.0.elf",
-    "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.28.0/ps5upload-5.28.0.elf",
-    "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
-    "last_update": "2026-09-15",
-    "version": "v5.28.0",
-    "category": "Networking & Servers",
-    "checksum": "e5937396055234122e21fa39ebc88287a8de916dbf541d5739b376e74ff882a3"
   },
   {
     "name": "onionHEN",
