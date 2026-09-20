@@ -1,5 +1,41 @@
 [
   {
+    "name": "ps5upload",
+    "filename": "ps5upload_v5.31.1.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v5.31.1.elf",
+    "source": "https://github.com/phantomptr/ps5upload/releases",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.31.1/ps5upload-5.31.1.elf",
+    "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
+    "last_update": "2026-09-20",
+    "version": "v5.31.1",
+    "category": "Networking & Servers",
+    "checksum": "c366ebdec72c53154938d3dc319ca9ee6b1bbceee52344755e88774c3d3b0956"
+  },
+  {
+    "name": "PKG-Manager",
+    "filename": "PKG-Manager_v1.1.0.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/PKG-Manager_v1.1.0.elf",
+    "source": "https://github.com/itsPLK/ps5-pkg-manager/releases",
+    "source_direct": "https://github.com/itsPLK/ps5-pkg-manager/releases/download/v1.1.0/pkgmgr_v1.1.0.elf",
+    "description": "Browse and install PKGs from USB, disc, or SMB shares directly on your PS5",
+    "last_update": "2026-09-20",
+    "version": "v1.1.0",
+    "category": "Utilities & Tools",
+    "checksum": "3df00c908411741216b3a5741b297cd3e771ce3b492cdf0f2f4edb7cc60b403b"
+  },
+  {
+    "name": "kstuff-lite",
+    "filename": "kstuff-lite_v1.11.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/kstuff-lite_v1.11.elf",
+    "source": "https://github.com/EchoStretch/kstuff-lite/releases",
+    "source_direct": "https://github.com/EchoStretch/kstuff-lite/releases/download/v1.11/kstuff.elf",
+    "description": "Lite version of kstuff",
+    "last_update": "2026-09-20",
+    "version": "v1.11",
+    "category": "System & Jailbreak",
+    "checksum": "ea14edbfe18ddc04f10dc09c4b1bf0c26e95b34a115a797722d6eda6298769c7"
+  },
+  {
     "name": "garlic-savemgr",
     "filename": "garlic-savemgr_v1.13.1.elf",
     "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/garlic-savemgr_v1.13.1.elf",
@@ -10,30 +46,6 @@
     "version": "v1.13.1",
     "category": "Utilities & Tools",
     "checksum": "b0fc2fcdda977d2a1207d77148746859b7ea7f3cfcad02828a7a9b49651807f5"
-  },
-  {
-    "name": "ps5upload",
-    "filename": "ps5upload_v5.30.0.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v5.30.0.elf",
-    "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.30.0/ps5upload-5.30.0.elf",
-    "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
-    "last_update": "2026-09-18",
-    "version": "v5.30.0",
-    "category": "Networking & Servers",
-    "checksum": "5d459934a2e8dac8e1a21104db8c1632809d2f45bb2f9a5a0395317d44de32c8"
-  },
-  {
-    "name": "PKG-Manager",
-    "filename": "PKG-Manager_v1.0.0.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/PKG-Manager_v1.0.0.elf",
-    "source": "https://github.com/itsPLK/ps5-pkg-manager/releases",
-    "source_direct": "https://github.com/itsPLK/ps5-pkg-manager/releases/download/v1.0.0/pkgmgr_v1.0.0.elf",
-    "description": "Browse and install PKGs from USB, disc, or SMB shares directly on your PS5",
-    "last_update": "2026-09-17",
-    "version": "v1.0.0",
-    "category": "Utilities & Tools",
-    "checksum": "51d3f13a91d007019f3262e1bd8ccc8ba3cbea6b1b6534b8e86df6bd2e0efb4b"
   },
   {
     "name": "ps5-web-file-manager",
@@ -106,18 +118,6 @@
     "version": "v0.21.1",
     "category": "Networking & Servers",
     "checksum": "7d4b31c83eae4e056580482a3a074e1db25922efc74ac1e439473b45d71a5938"
-  },
-  {
-    "name": "kstuff-lite",
-    "filename": "kstuff-lite_v1.10.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/kstuff-lite_v1.10.elf",
-    "source": "https://github.com/EchoStretch/kstuff-lite/releases",
-    "source_direct": "https://github.com/EchoStretch/kstuff-lite/releases/download/v1.10/kstuff.elf",
-    "description": "Lite version of kstuff",
-    "last_update": "2026-08-12",
-    "version": "v1.10",
-    "category": "System & Jailbreak",
-    "checksum": "b1dfe57f367a35374f605127915eda38c76a6ed5d1c729e427955798bd78c66a"
   },
   {
     "name": "BFpilot",

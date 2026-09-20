@@ -210,5 +210,17 @@
   "garlic-savemgr_v1.13.elf": {
     "download_count": 6168,
     "deleted_at": "2026-09-19"
+  },
+  "kstuff-lite_v1.10.elf": {
+    "download_count": 33901,
+    "deleted_at": "2026-09-20"
+  },
+  "PKG-Manager_v1.0.0.elf": {
+    "download_count": 1402,
+    "deleted_at": "2026-09-20"
+  },
+  "ps5upload_v5.30.0.elf": {
+    "download_count": 819,
+    "deleted_at": "2026-09-20"
   }
 }
