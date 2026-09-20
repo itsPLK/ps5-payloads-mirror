@@ -222,5 +222,13 @@
   "ps5upload_v5.30.0.elf": {
     "download_count": 819,
     "deleted_at": "2026-09-20"
+  },
+  "ftpsrv-drakmor_1.15-ng-stable.elf": {
+    "download_count": 3302,
+    "deleted_at": "2026-09-20"
+  },
+  "ShadowMountPlus_1.6beta16.elf": {
+    "download_count": 56474,
+    "deleted_at": "2026-09-20"
   }
 }

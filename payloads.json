@@ -36,6 +36,31 @@
     "checksum": "ea14edbfe18ddc04f10dc09c4b1bf0c26e95b34a115a797722d6eda6298769c7"
   },
   {
+    "name": "ShadowMountPlus",
+    "filename": "ShadowMountPlus_1.7beta1.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ShadowMountPlus_1.7beta1.elf",
+    "source": "https://github.com/drakmor/ShadowMountPlus/releases",
+    "source_direct": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta1/ShadowMountPlus_1.7beta1.zip",
+    "extract_file": "shadowmountplus.elf",
+    "description": "A fully automated, background 'Auto-Mounter' payload for Jailbroken PlayStation 5 consoles.",
+    "last_update": "2026-09-20",
+    "version": "1.7beta1",
+    "category": "Utilities & Tools",
+    "checksum": "0b30a1c23b83ebb2aa6523c8caaa5801ee89bde00e90cb36f392a29bb0bdb403"
+  },
+  {
+    "name": "ftpsrv-drakmor",
+    "filename": "ftpsrv-drakmor_1.16-ng-stable.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ftpsrv-drakmor_1.16-ng-stable.elf",
+    "source": "https://github.com/drakmor/ftpsrv/releases",
+    "source_direct": "https://github.com/drakmor/ftpsrv/releases/download/1.16-ng-stable/ftpsrv-ps5.elf",
+    "description": "drakmor's fork of ftpsrv",
+    "last_update": "2026-09-20",
+    "version": "1.16-ng-stable",
+    "category": "Networking & Servers",
+    "checksum": "f19ae469b25453a7a4af4529527521d31f143100f18a2c6839666e7121c8bd32"
+  },
+  {
     "name": "garlic-savemgr",
     "filename": "garlic-savemgr_v1.13.1.elf",
     "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/garlic-savemgr_v1.13.1.elf",
@@ -216,19 +241,6 @@
     "checksum": "42763a6230df8ef3bf82253e9a4290e39d7c1e4b61a0a9a4477368f1d6440e1d"
   },
   {
-    "name": "ShadowMountPlus",
-    "filename": "ShadowMountPlus_1.6beta16.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ShadowMountPlus_1.6beta16.elf",
-    "source": "https://github.com/drakmor/ShadowMountPlus/releases",
-    "source_direct": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.6beta16/ShadowMountPlus_1.6beta16.zip",
-    "extract_file": "shadowmountplus.elf",
-    "description": "A fully automated, background 'Auto-Mounter' payload for Jailbroken PlayStation 5 consoles.",
-    "last_update": "2026-06-28",
-    "version": "1.6beta16",
-    "category": "Utilities & Tools",
-    "checksum": "a35246fb3bb6042b25653b51cdcbc33254b40339342bf1d2dd0d2eceee2ca526"
-  },
-  {
     "name": "ps5debug-NG",
     "filename": "ps5debug-NG_1.3.0.elf",
     "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5debug-NG_1.3.0.elf",
@@ -289,18 +301,6 @@
     "version": "0.1",
     "category": "Utilities & Tools",
     "checksum": "d74e4cd119b2bb1fd423f2f5b1c9a7f096b3e588c753af1ab48b983d56216a52"
-  },
-  {
-    "name": "ftpsrv-drakmor",
-    "filename": "ftpsrv-drakmor_1.15-ng-stable.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ftpsrv-drakmor_1.15-ng-stable.elf",
-    "source": "https://github.com/drakmor/ftpsrv/releases",
-    "source_direct": "https://github.com/drakmor/ftpsrv/releases/download/1.15-ng-stable/ftpsrv-ps5.elf",
-    "description": "drakmor's fork of ftpsrv",
-    "last_update": "2026-04-08",
-    "version": "1.15-ng-stable",
-    "category": "Networking & Servers",
-    "checksum": "913a443af847b6861ec11748e2640f62d1fc1027076f576aa0ddccab8507311f"
   },
   {
     "name": "kstuff",
