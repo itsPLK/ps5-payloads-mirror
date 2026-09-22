@@ -1,15 +1,15 @@
 [
   {
     "name": "PKG-Manager",
-    "filename": "PKG-Manager_v1.2.2.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/PKG-Manager_v1.2.2.elf",
+    "filename": "PKG-Manager_v1.2.3.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/PKG-Manager_v1.2.3.elf",
     "source": "https://github.com/itsPLK/ps5-pkg-manager/releases",
-    "source_direct": "https://github.com/itsPLK/ps5-pkg-manager/releases/download/v1.2.2/pkgmgr_v1.2.2.elf",
+    "source_direct": "https://github.com/itsPLK/ps5-pkg-manager/releases/download/v1.2.3/pkg-manager_v1.2.3.elf",
     "description": "Browse and install PKGs from USB, disc, or SMB shares directly on your PS5",
     "last_update": "2026-09-22",
-    "version": "v1.2.2",
+    "version": "v1.2.3",
     "category": "Utilities & Tools",
-    "checksum": "67b649699a67eb68f5a6cfbfb34295b9419b88c70aba6e002af71f6c1c285624"
+    "checksum": "b14f0a54c826e5e4bb0b96c38113aa61ea41b0742663242104645add0d85ee19"
   },
   {
     "name": "ps5upload",
@@ -245,7 +245,7 @@
     "filename": "ps5debug-NG_1.3.0.elf",
     "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5debug-NG_1.3.0.elf",
     "source": "https://github.com/OpenSourcereR-dev/ps5debug-NG/releases",
-    "source_direct": "https://github.com/OpenSourcereR-dev/ps5debug-NG/releases/download/1.3.0/ps5debug-NG_v1.3.0.elf",
+    "source_direct": "https://github.com/Pharaoh2k/ps5debug-NG/releases/download/1.3.0/ps5debug-NG_v1.3.0.elf",
     "description": "PS5 debugger payload - userland TCP wire-protocol server hosted inside SceShellCore.",
     "last_update": "2026-06-21",
     "version": "1.3.0",
