@@ -7,8 +7,8 @@ This repository contains an automated mirror of useful payloads for the PlayStat
 <!-- PAYLOADS_START -->
 | Payload | Version | Description | Last Updated | Source | Download |
 | --- | --- | --- | --- | --- | --- |
+| **PKG-Manager** | `v1.2.1` | Browse and install PKGs from USB, disc, or SMB shares directly on your PS5 | `2026-09-22` | [Source](https://github.com/itsPLK/ps5-pkg-manager/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/PKG-Manager_v1.2.1.elf) |
 | **ps5upload** | `v5.31.4` | Fast, reliable transfers from your computer to your PS5 (requires PC app) | `2026-09-21` | [Source](https://github.com/phantomptr/ps5upload/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v5.31.4.elf) |
-| **PKG-Manager** | `v1.1.0` | Browse and install PKGs from USB, disc, or SMB shares directly on your PS5 | `2026-09-20` | [Source](https://github.com/itsPLK/ps5-pkg-manager/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/PKG-Manager_v1.1.0.elf) |
 | **kstuff-lite** | `v1.11` | Lite version of kstuff | `2026-09-20` | [Source](https://github.com/EchoStretch/kstuff-lite/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/kstuff-lite_v1.11.elf) |
 | **ShadowMountPlus** | `1.7beta1` | A fully automated, background 'Auto-Mounter' payload for Jailbroken PlayStation 5 consoles. | `2026-09-20` | [Source](https://github.com/drakmor/ShadowMountPlus/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ShadowMountPlus_1.7beta1.elf) |
 | **ftpsrv-drakmor** | `1.16-ng-stable` | drakmor's fork of ftpsrv | `2026-09-20` | [Source](https://github.com/drakmor/ftpsrv/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ftpsrv-drakmor_1.16-ng-stable.elf) |

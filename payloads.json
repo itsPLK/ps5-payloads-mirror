@@ -1,5 +1,17 @@
 [
   {
+    "name": "PKG-Manager",
+    "filename": "PKG-Manager_v1.2.1.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/PKG-Manager_v1.2.1.elf",
+    "source": "https://github.com/itsPLK/ps5-pkg-manager/releases",
+    "source_direct": "https://github.com/itsPLK/ps5-pkg-manager/releases/download/v1.2.1/pkgmgr_v1.2.1.elf",
+    "description": "Browse and install PKGs from USB, disc, or SMB shares directly on your PS5",
+    "last_update": "2026-09-22",
+    "version": "v1.2.1",
+    "category": "Utilities & Tools",
+    "checksum": "dff50e27f954e78838e97bcddbb5914bd348572a3caa3b2f9a0880e25a0f5fbc"
+  },
+  {
     "name": "ps5upload",
     "filename": "ps5upload_v5.31.4.elf",
     "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v5.31.4.elf",
@@ -10,18 +22,6 @@
     "version": "v5.31.4",
     "category": "Networking & Servers",
     "checksum": "420bdd4d9328ab1068f32ef1a19f96387586ddd2a308744f81957d04d8a41d3b"
-  },
-  {
-    "name": "PKG-Manager",
-    "filename": "PKG-Manager_v1.1.0.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/PKG-Manager_v1.1.0.elf",
-    "source": "https://github.com/itsPLK/ps5-pkg-manager/releases",
-    "source_direct": "https://github.com/itsPLK/ps5-pkg-manager/releases/download/v1.1.0/pkgmgr_v1.1.0.elf",
-    "description": "Browse and install PKGs from USB, disc, or SMB shares directly on your PS5",
-    "last_update": "2026-09-20",
-    "version": "v1.1.0",
-    "category": "Utilities & Tools",
-    "checksum": "3df00c908411741216b3a5741b297cd3e771ce3b492cdf0f2f4edb7cc60b403b"
   },
   {
     "name": "kstuff-lite",
