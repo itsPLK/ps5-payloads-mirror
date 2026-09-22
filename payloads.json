@@ -1,27 +1,27 @@
 [
   {
     "name": "PKG-Manager",
-    "filename": "PKG-Manager_v1.2.1.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/PKG-Manager_v1.2.1.elf",
+    "filename": "PKG-Manager_v1.2.2.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/PKG-Manager_v1.2.2.elf",
     "source": "https://github.com/itsPLK/ps5-pkg-manager/releases",
-    "source_direct": "https://github.com/itsPLK/ps5-pkg-manager/releases/download/v1.2.1/pkgmgr_v1.2.1.elf",
+    "source_direct": "https://github.com/itsPLK/ps5-pkg-manager/releases/download/v1.2.2/pkgmgr_v1.2.2.elf",
     "description": "Browse and install PKGs from USB, disc, or SMB shares directly on your PS5",
     "last_update": "2026-09-22",
-    "version": "v1.2.1",
+    "version": "v1.2.2",
     "category": "Utilities & Tools",
-    "checksum": "dff50e27f954e78838e97bcddbb5914bd348572a3caa3b2f9a0880e25a0f5fbc"
+    "checksum": "67b649699a67eb68f5a6cfbfb34295b9419b88c70aba6e002af71f6c1c285624"
   },
   {
     "name": "ps5upload",
-    "filename": "ps5upload_v5.31.4.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v5.31.4.elf",
+    "filename": "ps5upload_v5.33.1.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v5.33.1.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.31.4/ps5upload-5.31.4.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.33.1/ps5upload-5.33.1.elf",
     "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
-    "last_update": "2026-09-21",
-    "version": "v5.31.4",
+    "last_update": "2026-09-22",
+    "version": "v5.33.1",
     "category": "Networking & Servers",
-    "checksum": "420bdd4d9328ab1068f32ef1a19f96387586ddd2a308744f81957d04d8a41d3b"
+    "checksum": "75b364880bedaaac1499779d5a459008ca838eb13d30252169f9b134dd32ed63"
   },
   {
     "name": "kstuff-lite",
