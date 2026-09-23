@@ -1,5 +1,17 @@
 [
   {
+    "name": "ps5debug-NG",
+    "filename": "ps5debug-NG_1.3.2.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5debug-NG_1.3.2.elf",
+    "source": "https://github.com/OpenSourcereR-dev/ps5debug-NG/releases",
+    "source_direct": "https://github.com/Pharaoh2k/ps5debug-NG/releases/download/1.3.2/ps5debug-NG_v1.3.2.elf",
+    "description": "PS5 debugger payload - userland TCP wire-protocol server hosted inside SceShellCore.",
+    "last_update": "2026-09-23",
+    "version": "1.3.2",
+    "category": "Utilities & Tools",
+    "checksum": "949b0e6e0fe3f24f4a820319fd76d9ccb92f9770cbb1a64b09a8eca5c1fc9ff3"
+  },
+  {
     "name": "PKG-Manager",
     "filename": "PKG-Manager_v1.2.3.elf",
     "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/PKG-Manager_v1.2.3.elf",
@@ -239,18 +251,6 @@
     "version": "v1.11",
     "category": "Utilities & Tools",
     "checksum": "42763a6230df8ef3bf82253e9a4290e39d7c1e4b61a0a9a4477368f1d6440e1d"
-  },
-  {
-    "name": "ps5debug-NG",
-    "filename": "ps5debug-NG_1.3.0.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5debug-NG_1.3.0.elf",
-    "source": "https://github.com/OpenSourcereR-dev/ps5debug-NG/releases",
-    "source_direct": "https://github.com/Pharaoh2k/ps5debug-NG/releases/download/1.3.0/ps5debug-NG_v1.3.0.elf",
-    "description": "PS5 debugger payload - userland TCP wire-protocol server hosted inside SceShellCore.",
-    "last_update": "2026-06-21",
-    "version": "1.3.0",
-    "category": "Utilities & Tools",
-    "checksum": "8f75fb90b45d7cc4d59147e3323577d7264cf572c78a27f76722202f492ad16a"
   },
   {
     "name": "zftpd",

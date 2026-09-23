@@ -250,5 +250,9 @@
   "PKG-Manager_v1.2.2.elf": {
     "download_count": 246,
     "deleted_at": "2026-09-22"
+  },
+  "ps5debug-NG_1.3.0.elf": {
+    "download_count": 20,
+    "deleted_at": "2026-09-23"
   }
 }
