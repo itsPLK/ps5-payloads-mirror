@@ -3,7 +3,7 @@
     "name": "ps5debug-NG",
     "filename": "ps5debug-NG_1.3.2.elf",
     "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5debug-NG_1.3.2.elf",
-    "source": "https://github.com/OpenSourcereR-dev/ps5debug-NG/releases",
+    "source": "https://github.com/Pharaoh2k/ps5debug-NG/releases",
     "source_direct": "https://github.com/Pharaoh2k/ps5debug-NG/releases/download/1.3.2/ps5debug-NG_v1.3.2.elf",
     "description": "PS5 debugger payload - userland TCP wire-protocol server hosted inside SceShellCore.",
     "last_update": "2026-09-23",
