@@ -278,19 +278,6 @@
     "checksum": "13559b858fc33cc7fa3dc89e10dccf139070d99ee5d378dd75c969293700799e"
   },
   {
-    "name": "kstuff-toggle",
-    "filename": "kstuff-toggle_0.6.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/kstuff-toggle_0.6.elf",
-    "source": "https://github.com/EchoStretch/kstuff-toggle/releases",
-    "source_direct": "https://github.com/EchoStretch/kstuff-toggle/releases/download/0.6/kstuff-toggle.zip",
-    "extract_file": "kstuff-toggle-3.elf",
-    "description": "Boost homebrew game performance on your PS5 by disabling Kstuff after launching the game.",
-    "last_update": "2026-05-07",
-    "version": "0.6",
-    "category": "System & Jailbreak",
-    "checksum": "a1e99f2758aea98e78a37d1a1c2f79b08187acb35c7410eec4c8f4763162768f"
-  },
-  {
     "name": "BackPork",
     "filename": "BackPork_0.1.elf",
     "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/BackPork_0.1.elf",
@@ -301,18 +288,6 @@
     "version": "0.1",
     "category": "Utilities & Tools",
     "checksum": "d74e4cd119b2bb1fd423f2f5b1c9a7f096b3e588c753af1ab48b983d56216a52"
-  },
-  {
-    "name": "kstuff",
-    "filename": "kstuff_v1.6.7.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/kstuff_v1.6.7.elf",
-    "source": "https://github.com/EchoStretch/kstuff/releases",
-    "source_direct": "https://github.com/EchoStretch/kstuff/releases/download/v1.6.7/kstuff.elf",
-    "description": "Dynamically patches the PS5 kernel to bypass security",
-    "last_update": "2026-01-04",
-    "version": "v1.6.7",
-    "category": "System & Jailbreak",
-    "checksum": "f1c1f4b2b6395644af04cbe9828aba58586acf7aacb9e01113cac92ce16e3569"
   },
   {
     "name": "etaHEN",
