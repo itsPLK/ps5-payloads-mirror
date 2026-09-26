@@ -12,6 +12,18 @@
     "checksum": "3566678158f73f1ebdf80a7cccec263a554c6fbad1563a0054c5e8fcc0f4eb47"
   },
   {
+    "name": "ps5upload",
+    "filename": "ps5upload_v5.34.0.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v5.34.0.elf",
+    "source": "https://github.com/phantomptr/ps5upload/releases",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.34.0/ps5upload-5.34.0.elf",
+    "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
+    "last_update": "2026-09-25",
+    "version": "v5.34.0",
+    "category": "Networking & Servers",
+    "checksum": "fbe6fb2c306828d72bffefef4e4149ec189a748c3f7662dffeb6c281bf7437c0"
+  },
+  {
     "name": "ps5debug-NG",
     "filename": "ps5debug-NG_1.3.2.elf",
     "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5debug-NG_1.3.2.elf",
@@ -22,18 +34,6 @@
     "version": "1.3.2",
     "category": "Utilities & Tools",
     "checksum": "949b0e6e0fe3f24f4a820319fd76d9ccb92f9770cbb1a64b09a8eca5c1fc9ff3"
-  },
-  {
-    "name": "ps5upload",
-    "filename": "ps5upload_v5.33.2.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v5.33.2.elf",
-    "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.33.2/ps5upload-5.33.2.elf",
-    "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
-    "last_update": "2026-09-23",
-    "version": "v5.33.2",
-    "category": "Networking & Servers",
-    "checksum": "808b7acc5173bf8cfda02281b1ab3bf706dc7977f77c8cd64e1cf733d5aa9831"
   },
   {
     "name": "ShadowMountPlus",

@@ -270,5 +270,17 @@
   "PKG-Manager_v1.2.4.elf": {
     "download_count": 1317,
     "deleted_at": "2026-09-25"
+  },
+  "kstuff-toggle_0.6.elf": {
+    "download_count": 13366,
+    "deleted_at": "2026-09-26"
+  },
+  "kstuff_v1.6.7.elf": {
+    "download_count": 40568,
+    "deleted_at": "2026-09-26"
+  },
+  "ps5upload_v5.33.2.elf": {
+    "download_count": 1023,
+    "deleted_at": "2026-09-26"
   }
 }
