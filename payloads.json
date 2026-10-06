@@ -1,5 +1,29 @@
 [
   {
+    "name": "ps5upload",
+    "filename": "ps5upload_v6.1.2.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v6.1.2.elf",
+    "source": "https://github.com/phantomptr/ps5upload/releases",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v6.1.2/ps5upload-6.1.2.elf",
+    "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
+    "last_update": "2026-10-06",
+    "version": "v6.1.2",
+    "category": "Networking & Servers",
+    "checksum": "1fdf0a79687a4a823dd7c331c267cf492f849bd2bc6666e2db496fc03e544162"
+  },
+  {
+    "name": "ps5-web-file-manager",
+    "filename": "ps5-web-file-manager_v1.10.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-web-file-manager_v1.10.elf",
+    "source": "https://github.com/owendswang/ps5-web-file-manager/releases",
+    "source_direct": "https://github.com/owendswang/ps5-web-file-manager/releases/download/v1.10/web-file-mgr-v1.10.elf",
+    "description": "A file manager for PS5 with a web UI",
+    "last_update": "2026-10-05",
+    "version": "v1.10",
+    "category": "Utilities & Tools",
+    "checksum": "409145ec9a1c338ecb5f6f917c3b057c4ba48bfae2e86d621e19dda7ac129bd3"
+  },
+  {
     "name": "ps5-app-dumper",
     "filename": "ps5-app-dumper_v2.10.elf",
     "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-app-dumper_v2.10.elf",
@@ -10,18 +34,6 @@
     "version": "v2.10",
     "category": "Utilities & Tools",
     "checksum": "c850f1df6f2787824d6ddeeed69ce4144e00569b32135973401c2985cfb0345b"
-  },
-  {
-    "name": "ps5upload",
-    "filename": "ps5upload_v5.41.0.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v5.41.0.elf",
-    "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.41.0/ps5upload-5.41.0.elf",
-    "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
-    "last_update": "2026-10-01",
-    "version": "v5.41.0",
-    "category": "Networking & Servers",
-    "checksum": "90db08434228a08554e06a949f26457fb25c9b607f126fa63616b8d261426dee"
   },
   {
     "name": "CheatRunner",
@@ -144,18 +156,6 @@
     "version": "v1.13.1",
     "category": "Utilities & Tools",
     "checksum": "b0fc2fcdda977d2a1207d77148746859b7ea7f3cfcad02828a7a9b49651807f5"
-  },
-  {
-    "name": "ps5-web-file-manager",
-    "filename": "ps5-web-file-manager_v1.9.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-web-file-manager_v1.9.elf",
-    "source": "https://github.com/owendswang/ps5-web-file-manager/releases",
-    "source_direct": "https://github.com/owendswang/ps5-web-file-manager/releases/download/v1.9/web-file-mgr-v1.9.elf",
-    "description": "A file manager for PS5 with a web UI",
-    "last_update": "2026-09-16",
-    "version": "v1.9",
-    "category": "Utilities & Tools",
-    "checksum": "711cb076e887fcd55d973ade8b84bb6c22720be295bfde18e32761f6e0479a3e"
   },
   {
     "name": "onionHEN",

@@ -342,5 +342,13 @@
   "ShadowMountPlus_1.7beta2.elf": {
     "download_count": 47756,
     "deleted_at": "2026-10-04"
+  },
+  "ps5-web-file-manager_v1.9.elf": {
+    "download_count": 42253,
+    "deleted_at": "2026-10-06"
+  },
+  "ps5upload_v5.41.0.elf": {
+    "download_count": 22990,
+    "deleted_at": "2026-10-06"
   }
 }
