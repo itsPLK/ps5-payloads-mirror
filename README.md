@@ -7,7 +7,7 @@ This repository contains an automated mirror of useful payloads for the PlayStat
 <!-- PAYLOADS_START -->
 | Payload | Version | Description | Last Updated | Source | Download |
 | --- | --- | --- | --- | --- | --- |
-| **ps5upload** | `v6.2.1` | Fast, reliable transfers from your computer to your PS5 (requires PC app) | `2026-10-06` | [Source](https://github.com/phantomptr/ps5upload/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v6.2.1.elf) |
+| **ps5upload** | `v6.4.0` | Fast, reliable transfers from your computer to your PS5 (requires PC app) | `2026-10-08` | [Source](https://github.com/phantomptr/ps5upload/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v6.4.0.elf) |
 | **ps5-web-file-manager** | `v1.10` | A file manager for PS5 with a web UI | `2026-10-05` | [Source](https://github.com/owendswang/ps5-web-file-manager/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-web-file-manager_v1.10.elf) |
 | **ps5-app-dumper** | `v2.10` | A small utility to dump PS5 application files from the console's pfsmnt to a connected USB storage device. | `2026-10-03` | [Source](https://github.com/EchoStretch/ps5-app-dumper/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-app-dumper_v2.10.elf) |
 | **CheatRunner** | `v0.17.2` | Web-based game cheat trainer | `2026-10-01` | [Source](https://github.com/notmaj0r/CheatRunner/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/CheatRunner_v0.17.2.elf) |
