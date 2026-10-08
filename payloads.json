@@ -66,7 +66,7 @@
     "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/WebKit-Autoloader-Installer_v0.5.2.elf",
     "source": "https://github.com/itsPLK/ps5-webkit-autoloader/releases",
     "source_direct": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.5.2/webkit-autoloader-installer_v0.5.2.elf",
-    "description": "Installs WebKit Autoloader on homescreen (FW 1.00-5.50 & 7.00-13.60)",
+    "description": "Installs WebKit Autoloader on homescreen (FW 7.00-13.60)",
     "last_update": "2026-09-30",
     "version": "v0.5.2",
     "category": "Loaders",
