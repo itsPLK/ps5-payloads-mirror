@@ -1,15 +1,39 @@
 [
   {
     "name": "ps5upload",
-    "filename": "ps5upload_v6.4.0.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v6.4.0.elf",
+    "filename": "ps5upload_v6.5.1.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v6.5.1.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v6.4.0/ps5upload-6.4.0.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v6.5.1/ps5upload-6.5.1.elf",
     "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
     "last_update": "2026-10-08",
-    "version": "v6.4.0",
+    "version": "v6.5.1",
     "category": "Networking & Servers",
-    "checksum": "b0392932ae957821fbaccee44d761a9320655995ccfa80c9ffdcc5cec2497f70"
+    "checksum": "c1f924b6ccddde28a132f56aab4b30628bd79cbb98be6e9566d9768fbac93c3a"
+  },
+  {
+    "name": "WebKit-Autoloader-Installer",
+    "filename": "WebKit-Autoloader-Installer_v0.6.1.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/WebKit-Autoloader-Installer_v0.6.1.elf",
+    "source": "https://github.com/itsPLK/ps5-webkit-autoloader/releases",
+    "source_direct": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.6.1/webkit-autoloader-installer_v0.6.1.elf",
+    "description": "Installs WebKit Autoloader on homescreen (FW 7.00-13.60)",
+    "last_update": "2026-10-08",
+    "version": "v0.6.1",
+    "category": "Loaders",
+    "checksum": "f662c75a502e4f1bc41b055dcb490625f8222c499ce437dc80f439a3a279e93f"
+  },
+  {
+    "name": "PKG-Manager",
+    "filename": "PKG-Manager_v1.5.0.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/PKG-Manager_v1.5.0.elf",
+    "source": "https://github.com/itsPLK/ps5-pkg-manager/releases",
+    "source_direct": "https://github.com/itsPLK/ps5-pkg-manager/releases/download/v1.5.0/pkg-manager_v1.5.0.elf",
+    "description": "Browse and install PKGs from USB, disc, or SMB shares directly on your PS5",
+    "last_update": "2026-10-08",
+    "version": "v1.5.0",
+    "category": "Utilities & Tools",
+    "checksum": "fb29a0e3c058cd69e00320668db57704207b827b92b92e0cd23fb5fe7fe1429d"
   },
   {
     "name": "ps-patch-system",
@@ -73,18 +97,6 @@
     "checksum": "2a7427e20ba7a70bd8cd01e47eb00ee7ca82db82dff3da7884f48f9c3fcbe95a"
   },
   {
-    "name": "WebKit-Autoloader-Installer",
-    "filename": "WebKit-Autoloader-Installer_v0.5.2.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/WebKit-Autoloader-Installer_v0.5.2.elf",
-    "source": "https://github.com/itsPLK/ps5-webkit-autoloader/releases",
-    "source_direct": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.5.2/webkit-autoloader-installer_v0.5.2.elf",
-    "description": "Installs WebKit Autoloader on homescreen (FW 7.00-13.60)",
-    "last_update": "2026-09-30",
-    "version": "v0.5.2",
-    "category": "Loaders",
-    "checksum": "f990e48e8330231d2066a7b8ab6dc25fda83b2cc36cb426c472b35b33767451a"
-  },
-  {
     "name": "zftpd",
     "filename": "zftpd_v1.6.0.elf",
     "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/zftpd_v1.6.0.elf",
@@ -108,18 +120,6 @@
     "version": "v0.5.2",
     "category": "Utilities & Tools",
     "checksum": "62b3ba2a4937c2afc502f9a4e7242cca538610ebb4ae2800c7c6f72e7f268e7c"
-  },
-  {
-    "name": "PKG-Manager",
-    "filename": "PKG-Manager_v1.4.1.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/PKG-Manager_v1.4.1.elf",
-    "source": "https://github.com/itsPLK/ps5-pkg-manager/releases",
-    "source_direct": "https://github.com/itsPLK/ps5-pkg-manager/releases/download/v1.4.1/pkg-manager_v1.4.1.elf",
-    "description": "Browse and install PKGs from USB, disc, or SMB shares directly on your PS5",
-    "last_update": "2026-09-27",
-    "version": "v1.4.1",
-    "category": "Utilities & Tools",
-    "checksum": "09adaff13b858bb3db519faaea673ee3fa67298081e608d32f6501ed6e9f706e"
   },
   {
     "name": "ps5debug-NG",

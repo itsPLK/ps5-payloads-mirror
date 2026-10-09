@@ -358,5 +358,17 @@
   "ps5upload_v6.2.1.elf": {
     "download_count": 6113,
     "deleted_at": "2026-10-08"
+  },
+  "PKG-Manager_v1.4.1.elf": {
+    "download_count": 36977,
+    "deleted_at": "2026-10-09"
+  },
+  "ps5upload_v6.4.0.elf": {
+    "download_count": 4806,
+    "deleted_at": "2026-10-09"
+  },
+  "WebKit-Autoloader-Installer_v0.5.2.elf": {
+    "download_count": 53796,
+    "deleted_at": "2026-10-09"
   }
 }
