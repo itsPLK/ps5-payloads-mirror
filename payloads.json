@@ -12,6 +12,18 @@
     "checksum": "b0392932ae957821fbaccee44d761a9320655995ccfa80c9ffdcc5cec2497f70"
   },
   {
+    "name": "ps-patch-system",
+    "filename": "ps-patch-system_37549880588.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps-patch-system_37549880588.elf",
+    "source": "https://github.com/illusionyy/ps-patch-system/releases",
+    "source_direct": "https://github.com/illusionyy/ps-patch-system/releases/download/37549880588/patch-bundle-loader-prospero.elf",
+    "description": "App patching system",
+    "last_update": "2026-10-07",
+    "version": "37549880588",
+    "category": "Utilities & Tools",
+    "checksum": "0c684eac2f61eedcd5f1966b669158233a256be071956b6b060ef5a6d294cf42"
+  },
+  {
     "name": "ps5-web-file-manager",
     "filename": "ps5-web-file-manager_v1.10.elf",
     "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-web-file-manager_v1.10.elf",
