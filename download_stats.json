@@ -370,5 +370,9 @@
   "WebKit-Autoloader-Installer_v0.5.2.elf": {
     "download_count": 53796,
     "deleted_at": "2026-10-09"
+  },
+  "ps5upload_v6.5.1.elf": {
+    "download_count": 6915,
+    "deleted_at": "2026-10-10"
   }
 }
