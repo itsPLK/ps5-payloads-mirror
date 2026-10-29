@@ -3,6 +3,19 @@
   "icons_url": "icons.json",
   "payloads": [
     {
+      "name": "ps5upload",
+      "filename": "ps5upload_v8.10.0.elf",
+      "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v8.10.0.elf",
+      "source": "https://github.com/phantomptr/ps5upload/releases",
+      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v8.10.0/ps5upload-8.10.0.elf",
+      "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
+      "last_update": "2026-10-29",
+      "version": "v8.10.0",
+      "category": "Networking & Servers",
+      "checksum": "d863502e034ccb7d632b296305c4cb121b0716619b9cf14b8c6a88c511b6f473",
+      "icon_key": "8659496467090d2a8b6c7b1a6887702cc15d5b1be3ca05aee99f2b7c382244b0"
+    },
+    {
       "name": "NeoEnabler",
       "filename": "NeoEnabler_v0.5.3.elf",
       "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/NeoEnabler_v0.5.3.elf",
@@ -29,17 +42,45 @@
       "icon_key": "cf0638e2449462e5df0467fbebb46f4404b66374650ce0dec4457408252815c7"
     },
     {
-      "name": "ps5upload",
-      "filename": "ps5upload_v8.5.1.elf",
-      "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v8.5.1.elf",
-      "source": "https://github.com/phantomptr/ps5upload/releases",
-      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v8.5.1/ps5upload-8.5.1.elf",
-      "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
-      "last_update": "2026-10-27",
-      "version": "v8.5.1",
+      "name": "ShadowMountPlus",
+      "filename": "ShadowMountPlus_1.7beta10.elf",
+      "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ShadowMountPlus_1.7beta10.elf",
+      "source": "https://github.com/drakmor/ShadowMountPlus/releases",
+      "source_direct": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta10/ShadowMountPlus_1.7beta10.zip",
+      "extract_file": "shadowmountplus.elf",
+      "description": "A fully automated, background 'Auto-Mounter' payload for Jailbroken PlayStation 5 consoles.",
+      "last_update": "2026-10-28",
+      "version": "1.7beta10",
+      "category": "Utilities & Tools",
+      "checksum": "8c6798232ae2a8fbcd209ab97fc4f8d4d47cf23b7eecfaa6349c0bfeb8e4a3d3",
+      "icon_key": "2d83b692b57d424d0165cad9be37d9e0abe47a17dca0d7c6b9c05c30c4a0ab90"
+    },
+    {
+      "name": "ps4mount",
+      "filename": "ps4mount_v0.7.1.elf",
+      "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps4mount_v0.7.1.elf",
+      "source": "https://github.com/gasb07/ps4mount/releases",
+      "source_direct": "https://github.com/gasb07/ps4mount/releases/download/v0.7.1/ps4mount.elf",
+      "description": "Play PS4 fake PKGs on a jailbroken PS5 straight from a USB drive, without installing them.",
+      "last_update": "2026-10-28",
+      "version": "v0.7.1",
+      "category": "Utilities & Tools",
+      "checksum": "ea931ffc7b8da22b9ff36795388caaae28a926d9d44ecbb259e4c6e40aa72a27",
+      "icon_key": "de625d7674459fd12f00e334b2f97dcc10eca0667e4b349b67dc5882050889a8"
+    },
+    {
+      "name": "zftpd",
+      "filename": "zftpd_v1.7.0.elf",
+      "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/zftpd_v1.7.0.elf",
+      "source": "https://github.com/seregonwar/zftpd/releases",
+      "source_direct": "https://github.com/seregonwar/zftpd/releases/download/v1.7.0/zftpd-ps5-zhttp-v1.7.0.elf",
+      "asset_pattern": "zhttp",
+      "description": "Zero-copy FTP/HTTP Server",
+      "last_update": "2026-10-28",
+      "version": "v1.7.0",
       "category": "Networking & Servers",
-      "checksum": "2039eb340f6c09f7fce6bd726ad526adb68e9e924351b21dba74720025267481",
-      "icon_key": "8659496467090d2a8b6c7b1a6887702cc15d5b1be3ca05aee99f2b7c382244b0"
+      "checksum": "8f78ac0cde64a0744b82663d4a6bf8c1d7e937876dceddc219a21164578bd96e",
+      "icon_key": "bd943d614d5d000c34a8bd4e1c00df0bbb9881907accaabe58aab384711abb6c"
     },
     {
       "name": "ps5-dump-forge",
@@ -55,20 +96,6 @@
       "icon_key": "5ab5a0df9580b7ed460face021e302fe2c4496183699aeffc891232046288261"
     },
     {
-      "name": "ShadowMountPlus",
-      "filename": "ShadowMountPlus_1.7beta9.elf",
-      "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ShadowMountPlus_1.7beta9.elf",
-      "source": "https://github.com/drakmor/ShadowMountPlus/releases",
-      "source_direct": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta9/ShadowMountPlus_1.7beta9.zip",
-      "extract_file": "shadowmountplus.elf",
-      "description": "A fully automated, background 'Auto-Mounter' payload for Jailbroken PlayStation 5 consoles.",
-      "last_update": "2026-10-27",
-      "version": "1.7beta9",
-      "category": "Utilities & Tools",
-      "checksum": "928a5a7e33d2801c1c14a5ed8ad83fcab07957ba3a5daccd382dba67d408b3e2",
-      "icon_key": "2d83b692b57d424d0165cad9be37d9e0abe47a17dca0d7c6b9c05c30c4a0ab90"
-    },
-    {
       "name": "LiveShell",
       "filename": "LiveShell_v1.6.0.elf",
       "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/LiveShell_v1.6.0.elf",
@@ -80,19 +107,6 @@
       "category": "Utilities & Tools",
       "checksum": "99335e75312d6ffcce91f6a5b659f0191ec057c744b2b3d5b899db5a88b80ac3",
       "icon_key": "4d4df486b46aab47c53d2afe83c17e96d9b6e74edf6cf4d51f9528ae417d1c19"
-    },
-    {
-      "name": "ps4mount",
-      "filename": "ps4mount_v0.7.0.elf",
-      "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps4mount_v0.7.0.elf",
-      "source": "https://github.com/gasb07/ps4mount/releases",
-      "source_direct": "https://github.com/gasb07/ps4mount/releases/download/v0.7.0/ps4mount.elf",
-      "description": "Play PS4 fake PKGs on a jailbroken PS5 straight from a USB drive, without installing them.",
-      "last_update": "2026-10-24",
-      "version": "v0.7.0",
-      "category": "Utilities & Tools",
-      "checksum": "9a99fdeb2be8ebee823b14636e0aac5721386feabcfe97e27dc6d5b3e4158bb7",
-      "icon_key": "de625d7674459fd12f00e334b2f97dcc10eca0667e4b349b67dc5882050889a8"
     },
     {
       "name": "WelcomeHubActivator",
@@ -249,20 +263,6 @@
       "category": "Utilities & Tools",
       "checksum": "c850f1df6f2787824d6ddeeed69ce4144e00569b32135973401c2985cfb0345b",
       "icon_key": "bfb17e40ad9e638c1eaae93bc8d9a336dab35fd51eaeb7251f122e0b1fd53f8b"
-    },
-    {
-      "name": "zftpd",
-      "filename": "zftpd_v1.6.0.elf",
-      "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/zftpd_v1.6.0.elf",
-      "source": "https://github.com/seregonwar/zftpd/releases",
-      "source_direct": "https://github.com/seregonwar/zftpd/releases/download/v1.6.0/zftpd-ps5-zhttp-v1.6.0.elf",
-      "asset_pattern": "zhttp",
-      "description": "Zero-copy FTP/HTTP Server",
-      "last_update": "2026-09-30",
-      "version": "v1.6.0",
-      "category": "Networking & Servers",
-      "checksum": "fc59b60aab2dce9a8bae385c106bfa174048d765c826101355f1f010a789b497",
-      "icon_key": "bd943d614d5d000c34a8bd4e1c00df0bbb9881907accaabe58aab384711abb6c"
     },
     {
       "name": "ps5debug-NG",

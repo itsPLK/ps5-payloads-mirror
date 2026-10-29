@@ -526,5 +526,21 @@
   "WebKit-Autoloader-Installer_v0.6.1.elf": {
     "download_count": 91564,
     "deleted_at": "2026-10-28"
+  },
+  "ps4mount_v0.7.0.elf": {
+    "download_count": 3458,
+    "deleted_at": "2026-10-29"
+  },
+  "ps5upload_v8.5.1.elf": {
+    "download_count": 5414,
+    "deleted_at": "2026-10-29"
+  },
+  "ShadowMountPlus_1.7beta9.elf": {
+    "download_count": 10994,
+    "deleted_at": "2026-10-29"
+  },
+  "zftpd_v1.6.0.elf": {
+    "download_count": 13262,
+    "deleted_at": "2026-10-29"
   }
 }
