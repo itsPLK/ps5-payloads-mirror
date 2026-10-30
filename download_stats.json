@@ -542,5 +542,29 @@
   "zftpd_v1.6.0.elf": {
     "download_count": 13262,
     "deleted_at": "2026-10-29"
+  },
+  "NeoEnabler_v0.5.3.elf": {
+    "download_count": 1816,
+    "deleted_at": "2026-10-30"
+  },
+  "ps4mount_v0.7.1.elf": {
+    "download_count": 1506,
+    "deleted_at": "2026-10-30"
+  },
+  "ps5-dump-forge_v0.4.2.elf": {
+    "download_count": 1262,
+    "deleted_at": "2026-10-30"
+  },
+  "ps5-web-file-manager_v1.12.elf": {
+    "download_count": 41865,
+    "deleted_at": "2026-10-30"
+  },
+  "ps5upload_v8.10.0.elf": {
+    "download_count": 5631,
+    "deleted_at": "2026-10-30"
+  },
+  "ShadowMountPlus_1.7beta10.elf": {
+    "download_count": 11700,
+    "deleted_at": "2026-10-30"
   }
 }
