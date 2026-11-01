@@ -570,5 +570,13 @@
   "ps5upload_v9.4.1.elf": {
     "download_count": 5471,
     "deleted_at": "2026-10-31"
+  },
+  "NeoEnabler_v0.6.0.elf": {
+    "download_count": 1852,
+    "deleted_at": "2026-11-01"
+  },
+  "ps5upload_v10.0.1.elf": {
+    "download_count": 5239,
+    "deleted_at": "2026-11-01"
   }
 }
