@@ -4,16 +4,29 @@
   "payloads": [
     {
       "name": "ps5upload",
-      "filename": "ps5upload_v10.3.0.elf",
-      "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v10.3.0.elf",
+      "filename": "ps5upload_v10.7.2.elf",
+      "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v10.7.2.elf",
       "source": "https://github.com/phantomptr/ps5upload/releases",
-      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v10.3.0/ps5upload-10.3.0.elf",
+      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v10.7.2/ps5upload-10.7.2.elf",
       "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
-      "last_update": "2026-11-01",
-      "version": "v10.3.0",
+      "last_update": "2026-11-02",
+      "version": "v10.7.2",
       "category": "Networking & Servers",
-      "checksum": "e3da25330b0b3aeba1ad1eab628726a7b7526bd2be2d5f9a40dba59527dfb155",
+      "checksum": "afb8b1965796795f308dcc8e27be1a2e80feeaddbb85e3c94823ba46dabeb0d2",
       "icon_key": "8659496467090d2a8b6c7b1a6887702cc15d5b1be3ca05aee99f2b7c382244b0"
+    },
+    {
+      "name": "ps5-dump-forge",
+      "filename": "ps5-dump-forge_v0.5.1.elf",
+      "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-dump-forge_v0.5.1.elf",
+      "source": "https://github.com/quer3q/ps5-dump-forge/releases",
+      "source_direct": "https://github.com/quer3q/ps5-dump-forge/releases/download/v0.5.1/ps5-dump-forge-0.5.1-ps5.elf",
+      "description": "A toolkit for working with PS5 game dumps",
+      "last_update": "2026-11-01",
+      "version": "v0.5.1",
+      "category": "Utilities & Tools",
+      "checksum": "864cf7c0739e9f411c596873c3c2fb482a2ebb2be207bf7bd1ac558e4699156f",
+      "icon_key": "5ab5a0df9580b7ed460face021e302fe2c4496183699aeffc891232046288261"
     },
     {
       "name": "NeoEnabler",
@@ -54,19 +67,6 @@
       "category": "Utilities & Tools",
       "checksum": "30627513e950f6b7b6b0e5ca43c30e954cdd873a646b8beefe0a4a925ac28479",
       "icon_key": "de625d7674459fd12f00e334b2f97dcc10eca0667e4b349b67dc5882050889a8"
-    },
-    {
-      "name": "ps5-dump-forge",
-      "filename": "ps5-dump-forge_v0.5.0.elf",
-      "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-dump-forge_v0.5.0.elf",
-      "source": "https://github.com/quer3q/ps5-dump-forge/releases",
-      "source_direct": "https://github.com/quer3q/ps5-dump-forge/releases/download/v0.5.0/ps5-dump-forge-0.5.0-ps5.elf",
-      "description": "A toolkit for working with PS5 game dumps",
-      "last_update": "2026-10-29",
-      "version": "v0.5.0",
-      "category": "Utilities & Tools",
-      "checksum": "f0cc32e772318f1ae53f1eccae207cb9aa1efb96d1a2a6249205bb3e0e478986",
-      "icon_key": "5ab5a0df9580b7ed460face021e302fe2c4496183699aeffc891232046288261"
     },
     {
       "name": "ps5-web-file-manager",
