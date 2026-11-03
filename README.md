@@ -7,7 +7,7 @@ This repository contains an automated mirror of useful payloads for the PlayStat
 <!-- PAYLOADS_START -->
 | Payload | Version | Description | Last Updated | Source | Download |
 | --- | --- | --- | --- | --- | --- |
-| **ps5upload** | `v10.7.2` | Fast, reliable transfers from your computer to your PS5 (requires PC app) | `2026-11-02` | [Source](https://github.com/phantomptr/ps5upload/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v10.7.2.elf) |
+| **ps5upload** | `v10.7.6` | Fast, reliable transfers from your computer to your PS5 (requires PC app) | `2026-11-03` | [Source](https://github.com/phantomptr/ps5upload/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v10.7.6.elf) |
 | **ps5-dump-forge** | `v0.5.1` | A toolkit for working with PS5 game dumps | `2026-11-01` | [Source](https://github.com/quer3q/ps5-dump-forge/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-dump-forge_v0.5.1.elf) |
 | **NeoEnabler** | `v0.6.1` | Allows PS4 games with no PS4 Support to receive patches via illusionyy's ps-patch-system that can unlock higher resolutions | `2026-10-31` | [Source](https://github.com/gasb07/NeoEnabler/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/NeoEnabler_v0.6.1.elf) |
 | **ShadowMountPlus** | `1.7beta11` | A fully automated, background 'Auto-Mounter' payload for Jailbroken PlayStation 5 consoles. | `2026-10-29` | [Source](https://github.com/drakmor/ShadowMountPlus/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ShadowMountPlus_1.7beta11.elf) |

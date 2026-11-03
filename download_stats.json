@@ -586,5 +586,9 @@
   "ps5upload_v10.3.0.elf": {
     "download_count": 4846,
     "deleted_at": "2026-11-02"
+  },
+  "ps5upload_v10.7.2.elf": {
+    "download_count": 4264,
+    "deleted_at": "2026-11-03"
   }
 }
