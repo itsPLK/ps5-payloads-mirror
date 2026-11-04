@@ -590,5 +590,25 @@
   "ps5upload_v10.7.2.elf": {
     "download_count": 4264,
     "deleted_at": "2026-11-03"
+  },
+  "CheatRunner_v0.18.elf": {
+    "download_count": 40956,
+    "deleted_at": "2026-11-04"
+  },
+  "NeoEnabler_v0.6.1.elf": {
+    "download_count": 2041,
+    "deleted_at": "2026-11-04"
+  },
+  "ps5-dump-forge_v0.5.1.elf": {
+    "download_count": 1268,
+    "deleted_at": "2026-11-04"
+  },
+  "ps5-web-file-manager_v1.13-rc1.elf": {
+    "download_count": 29116,
+    "deleted_at": "2026-11-04"
+  },
+  "ps5upload_v10.7.6.elf": {
+    "download_count": 3724,
+    "deleted_at": "2026-11-04"
   }
 }
