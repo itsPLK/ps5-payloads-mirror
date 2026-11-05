@@ -610,5 +610,13 @@
   "ps5upload_v10.7.6.elf": {
     "download_count": 3724,
     "deleted_at": "2026-11-04"
+  },
+  "garlic-savemgr_v1.14.elf": {
+    "download_count": 12494,
+    "deleted_at": "2026-11-05"
+  },
+  "ps5upload_v11.0.4.elf": {
+    "download_count": 3511,
+    "deleted_at": "2026-11-05"
   }
 }
