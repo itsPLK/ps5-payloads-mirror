@@ -618,5 +618,21 @@
   "ps5upload_v11.0.4.elf": {
     "download_count": 3511,
     "deleted_at": "2026-11-05"
+  },
+  "garlic-savemgr_v1.15-beta4.elf": {
+    "download_count": 1793,
+    "deleted_at": "2026-11-06"
+  },
+  "ps4mount_v0.7.2.elf": {
+    "download_count": 5614,
+    "deleted_at": "2026-11-06"
+  },
+  "ps5-dump-forge_v0.5.2.elf": {
+    "download_count": 1407,
+    "deleted_at": "2026-11-06"
+  },
+  "ps5upload_v11.1.0.elf": {
+    "download_count": 3592,
+    "deleted_at": "2026-11-06"
   }
 }
