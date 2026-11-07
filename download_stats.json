@@ -634,5 +634,21 @@
   "ps5upload_v11.1.0.elf": {
     "download_count": 3592,
     "deleted_at": "2026-11-06"
+  },
+  "garlic-savemgr_v1.15-beta9.elf": {
+    "download_count": 1928,
+    "deleted_at": "2026-11-07"
+  },
+  "ps5-dump-forge_v0.5.3.elf": {
+    "download_count": 1102,
+    "deleted_at": "2026-11-07"
+  },
+  "ps5upload_v11.2.4.elf": {
+    "download_count": 3866,
+    "deleted_at": "2026-11-07"
+  },
+  "WebKit-Autoloader-Installer_v0.6.2.elf": {
+    "download_count": 42266,
+    "deleted_at": "2026-11-07"
   }
 }
