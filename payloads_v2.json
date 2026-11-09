@@ -3,16 +3,29 @@
   "icons_url": "icons.json",
   "payloads": [
     {
+      "name": "ps5upload",
+      "filename": "ps5upload_v12.2.0.elf",
+      "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v12.2.0.elf",
+      "source": "https://github.com/phantomptr/ps5upload/releases",
+      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.2.0/ps5upload-12.2.0.elf",
+      "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
+      "last_update": "2026-11-09",
+      "version": "v12.2.0",
+      "category": "Networking & Servers",
+      "checksum": "436b8e832484464f4e1bcd11dbc607b4e19a8232b4646e49afff37675555a16f",
+      "icon_key": "8659496467090d2a8b6c7b1a6887702cc15d5b1be3ca05aee99f2b7c382244b0"
+    },
+    {
       "name": "garlic-savemgr",
-      "filename": "garlic-savemgr_v1.15-beta14.elf",
-      "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/garlic-savemgr_v1.15-beta14.elf",
+      "filename": "garlic-savemgr_v1.15-beta16.elf",
+      "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/garlic-savemgr_v1.15-beta16.elf",
       "source": "https://git.etawen.dev/earthonion/garlic-savemgr/releases",
-      "source_direct": "https://git.etawen.dev/earthonion/garlic-savemgr/releases/download/v1.15-beta14/garlic-savemgr.elf",
+      "source_direct": "https://git.etawen.dev/earthonion/garlic-savemgr/releases/download/v1.15-beta16/garlic-savemgr.elf",
       "description": "PS5 save decrypt/encrypt/browse with embedded web UI.",
       "last_update": "2026-11-08",
-      "version": "v1.15-beta14",
+      "version": "v1.15-beta16",
       "category": "Utilities & Tools",
-      "checksum": "2f9f4b575757b480443282f3c885b1e63cc4637e0ea2a043a8c79e392c792af0",
+      "checksum": "d6a6048e6b5b56a30d07c926155b18d4b95e07b96dbf7631d1e8ded765880471",
       "icon_key": "2cc3ca2be798749bb50ba4dc2afcb00a321542352e95087aa89b0e53c9b3e2ed"
     },
     {
@@ -27,19 +40,6 @@
       "category": "Loaders",
       "checksum": "df60538570e9811bb0b4652a3fdb3e1a35ec3455b3ca7c80edc4140c5bb47ce2",
       "icon_key": "cf0638e2449462e5df0467fbebb46f4404b66374650ce0dec4457408252815c7"
-    },
-    {
-      "name": "ps5upload",
-      "filename": "ps5upload_v11.5.2.elf",
-      "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v11.5.2.elf",
-      "source": "https://github.com/phantomptr/ps5upload/releases",
-      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v11.5.2/ps5upload-11.5.2.elf",
-      "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
-      "last_update": "2026-11-07",
-      "version": "v11.5.2",
-      "category": "Networking & Servers",
-      "checksum": "1c2a6fe82de8438219c01c8c866deffd2b88ec3896bccb649601ef1fe1bc84c5",
-      "icon_key": "8659496467090d2a8b6c7b1a6887702cc15d5b1be3ca05aee99f2b7c382244b0"
     },
     {
       "name": "ps5-dump-forge",
