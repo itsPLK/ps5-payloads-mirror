@@ -1,16 +1,29 @@
 [
   {
     "name": "ps5upload",
-    "filename": "ps5upload_v12.2.0.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v12.2.0.elf",
+    "filename": "ps5upload_v12.4.2.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v12.4.2.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.2.0/ps5upload-12.2.0.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.4.2/ps5upload-12.4.2.elf",
     "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
     "last_update": "2026-11-09",
-    "version": "v12.2.0",
+    "version": "v12.4.2",
     "category": "Networking & Servers",
-    "checksum": "436b8e832484464f4e1bcd11dbc607b4e19a8232b4646e49afff37675555a16f",
+    "checksum": "06dbb9022bcb71cb95178c29c9da39ae6e60d17becf9c1ff8938c98bd15fa8ef",
     "icon_key": "8659496467090d2a8b6c7b1a6887702cc15d5b1be3ca05aee99f2b7c382244b0"
+  },
+  {
+    "name": "ps5-dump-forge",
+    "filename": "ps5-dump-forge_v0.5.5.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-dump-forge_v0.5.5.elf",
+    "source": "https://github.com/quer3q/ps5-dump-forge/releases",
+    "source_direct": "https://github.com/quer3q/ps5-dump-forge/releases/download/v0.5.5/ps5-dump-forge-0.5.5-ps5.elf",
+    "description": "A toolkit for working with PS5 game dumps",
+    "last_update": "2026-11-09",
+    "version": "v0.5.5",
+    "category": "Utilities & Tools",
+    "checksum": "858b8ae2954341a3389e4a9f998c6a57d01bc4e4fb8f01a71c41719001c30be7",
+    "icon_key": "5ab5a0df9580b7ed460face021e302fe2c4496183699aeffc891232046288261"
   },
   {
     "name": "garlic-savemgr",
@@ -39,17 +52,17 @@
     "icon_key": "cf0638e2449462e5df0467fbebb46f4404b66374650ce0dec4457408252815c7"
   },
   {
-    "name": "ps5-dump-forge",
-    "filename": "ps5-dump-forge_v0.5.4.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-dump-forge_v0.5.4.elf",
-    "source": "https://github.com/quer3q/ps5-dump-forge/releases",
-    "source_direct": "https://github.com/quer3q/ps5-dump-forge/releases/download/v0.5.4/ps5-dump-forge-0.5.4-ps5.elf",
-    "description": "A toolkit for working with PS5 game dumps",
-    "last_update": "2026-11-06",
-    "version": "v0.5.4",
-    "category": "Utilities & Tools",
-    "checksum": "ad8c36040c39f538376fbbc6434bdbe7f3d001e4f84cbb9afaa16a6d29617fc9",
-    "icon_key": "5ab5a0df9580b7ed460face021e302fe2c4496183699aeffc891232046288261"
+    "name": "ftpsrv",
+    "filename": "ftpsrv_v0.22.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ftpsrv_v0.22.elf",
+    "source": "https://github.com/ps5-payload-dev/ftpsrv/releases",
+    "source_direct": "https://github.com/ps5-payload-dev/ftpsrv/releases/download/v0.22/ftpsrv-ps5.elf",
+    "description": "A simple FTP server that accepts connections on port 2121",
+    "last_update": "2026-11-08",
+    "version": "v0.22",
+    "category": "Networking & Servers",
+    "checksum": "41148c2c1cad1ea9e7cfde03e389fa918e3338e896d06167346de09adbdc8757",
+    "icon_key": "4720d3f0f446dc4e8848351d922d3fa4c0ef2fe9267f6afd6f3865f9b14605e7"
   },
   {
     "name": "ps4mount",
@@ -325,19 +338,6 @@
     "category": "Utilities & Tools",
     "checksum": "91806229803845930b2173174e1afeadf509e4c171f6396788f929558fad6849",
     "icon_key": "0dd16a96b5d67ffa328df5e08c4ca2ce78c5d5e634975930980193fb7c6174aa"
-  },
-  {
-    "name": "ftpsrv",
-    "filename": "ftpsrv_v0.21.1.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ftpsrv_v0.21.1.elf",
-    "source": "https://github.com/ps5-payload-dev/ftpsrv/releases",
-    "source_direct": "https://github.com/ps5-payload-dev/ftpsrv/releases/download/v0.21.1/ftpsrv-ps5.elf",
-    "description": "A simple FTP server that accepts connections on port 2121",
-    "last_update": "2026-08-20",
-    "version": "v0.21.1",
-    "category": "Networking & Servers",
-    "checksum": "7d4b31c83eae4e056580482a3a074e1db25922efc74ac1e439473b45d71a5938",
-    "icon_key": "4720d3f0f446dc4e8848351d922d3fa4c0ef2fe9267f6afd6f3865f9b14605e7"
   },
   {
     "name": "BFpilot",

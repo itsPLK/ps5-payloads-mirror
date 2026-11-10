@@ -670,5 +670,17 @@
   "ps5upload_v11.5.2.elf": {
     "download_count": 4161,
     "deleted_at": "2026-11-09"
+  },
+  "ftpsrv_v0.21.1.elf": {
+    "download_count": 100922,
+    "deleted_at": "2026-11-10"
+  },
+  "ps5-dump-forge_v0.5.4.elf": {
+    "download_count": 3321,
+    "deleted_at": "2026-11-10"
+  },
+  "ps5upload_v12.2.0.elf": {
+    "download_count": 3938,
+    "deleted_at": "2026-11-10"
   }
 }
