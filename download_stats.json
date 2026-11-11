@@ -682,5 +682,21 @@
   "ps5upload_v12.2.0.elf": {
     "download_count": 3938,
     "deleted_at": "2026-11-10"
+  },
+  "garlic-savemgr_v1.15-beta16.elf": {
+    "download_count": 3247,
+    "deleted_at": "2026-11-11"
+  },
+  "LiveShell_v1.6.0.elf": {
+    "download_count": 8187,
+    "deleted_at": "2026-11-11"
+  },
+  "ps5-web-file-manager_v1.13-rc2.elf": {
+    "download_count": 29943,
+    "deleted_at": "2026-11-11"
+  },
+  "ps5upload_v12.4.2.elf": {
+    "download_count": 3344,
+    "deleted_at": "2026-11-11"
   }
 }

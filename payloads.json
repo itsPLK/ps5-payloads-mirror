@@ -1,16 +1,55 @@
 [
   {
     "name": "ps5upload",
-    "filename": "ps5upload_v12.4.2.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v12.4.2.elf",
+    "filename": "ps5upload_v12.4.7.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v12.4.7.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.4.2/ps5upload-12.4.2.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.4.7/ps5upload-12.4.7.elf",
     "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
-    "last_update": "2026-11-09",
-    "version": "v12.4.2",
+    "last_update": "2026-11-11",
+    "version": "v12.4.7",
     "category": "Networking & Servers",
-    "checksum": "06dbb9022bcb71cb95178c29c9da39ae6e60d17becf9c1ff8938c98bd15fa8ef",
+    "checksum": "721d9dbca1e05c73aa58bdf4fe5093b4caf35f775a1d8702b080920ecb2111ab",
     "icon_key": "8659496467090d2a8b6c7b1a6887702cc15d5b1be3ca05aee99f2b7c382244b0"
+  },
+  {
+    "name": "garlic-savemgr",
+    "filename": "garlic-savemgr_v1.15-beta22.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/garlic-savemgr_v1.15-beta22.elf",
+    "source": "https://git.etawen.dev/earthonion/garlic-savemgr/releases",
+    "source_direct": "https://git.etawen.dev/earthonion/garlic-savemgr/releases/download/v1.15-beta22/garlic-savemgr.elf",
+    "description": "PS5 save decrypt/encrypt/browse with embedded web UI.",
+    "last_update": "2026-11-11",
+    "version": "v1.15-beta22",
+    "category": "Utilities & Tools",
+    "checksum": "fb8e0860161e3235e57bc9239d61d2b6483cf45395253745c05d34a3c9ebf1ca",
+    "icon_key": "2cc3ca2be798749bb50ba4dc2afcb00a321542352e95087aa89b0e53c9b3e2ed"
+  },
+  {
+    "name": "ps5-web-file-manager",
+    "filename": "ps5-web-file-manager_v1.14.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-web-file-manager_v1.14.elf",
+    "source": "https://github.com/owendswang/ps5-web-file-manager/releases",
+    "source_direct": "https://github.com/owendswang/ps5-web-file-manager/releases/download/v1.14/web-file-mgr-v1.14.elf",
+    "description": "A file manager for PS5 with a web UI",
+    "last_update": "2026-11-10",
+    "version": "v1.14",
+    "category": "Utilities & Tools",
+    "checksum": "8493c0bd11d77f9cce4b6c93564ffcae7185a5b530ecf856a768519c2514e231",
+    "icon_key": "913addf010d2f20c451b452813163931b4635f45c3a0606120f15f22df6314dd"
+  },
+  {
+    "name": "LiveShell",
+    "filename": "LiveShell_v1.7.0.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/LiveShell_v1.7.0.elf",
+    "source": "https://github.com/ZiZc3/LiveShell/releases",
+    "source_direct": "https://github.com/ZiZc3/LiveShell/releases/download/v1.7.0/liveshell.elf",
+    "description": "Animated backgrounds for PS5 home screen.",
+    "last_update": "2026-11-10",
+    "version": "v1.7.0",
+    "category": "Utilities & Tools",
+    "checksum": "c16ddbdf5e84698281a5a18b48be4b1d3d9e153e704bcb6b8eaabe2c27fe95eb",
+    "icon_key": "4d4df486b46aab47c53d2afe83c17e96d9b6e74edf6cf4d51f9528ae417d1c19"
   },
   {
     "name": "ps5-dump-forge",
@@ -24,19 +63,6 @@
     "category": "Utilities & Tools",
     "checksum": "858b8ae2954341a3389e4a9f998c6a57d01bc4e4fb8f01a71c41719001c30be7",
     "icon_key": "5ab5a0df9580b7ed460face021e302fe2c4496183699aeffc891232046288261"
-  },
-  {
-    "name": "garlic-savemgr",
-    "filename": "garlic-savemgr_v1.15-beta16.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/garlic-savemgr_v1.15-beta16.elf",
-    "source": "https://git.etawen.dev/earthonion/garlic-savemgr/releases",
-    "source_direct": "https://git.etawen.dev/earthonion/garlic-savemgr/releases/download/v1.15-beta16/garlic-savemgr.elf",
-    "description": "PS5 save decrypt/encrypt/browse with embedded web UI.",
-    "last_update": "2026-11-08",
-    "version": "v1.15-beta16",
-    "category": "Utilities & Tools",
-    "checksum": "d6a6048e6b5b56a30d07c926155b18d4b95e07b96dbf7631d1e8ded765880471",
-    "icon_key": "2cc3ca2be798749bb50ba4dc2afcb00a321542352e95087aa89b0e53c9b3e2ed"
   },
   {
     "name": "WebKit-Autoloader-Installer",
@@ -118,19 +144,6 @@
     "icon_key": "2d83b692b57d424d0165cad9be37d9e0abe47a17dca0d7c6b9c05c30c4a0ab90"
   },
   {
-    "name": "ps5-web-file-manager",
-    "filename": "ps5-web-file-manager_v1.13-rc2.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-web-file-manager_v1.13-rc2.elf",
-    "source": "https://github.com/owendswang/ps5-web-file-manager/releases",
-    "source_direct": "https://github.com/owendswang/ps5-web-file-manager/releases/download/v1.13-rc2/web-file-mgr-v1.13-rc2.elf",
-    "description": "A file manager for PS5 with a web UI",
-    "last_update": "2026-10-29",
-    "version": "v1.13-rc2",
-    "category": "Utilities & Tools",
-    "checksum": "91f8e7f52183ce624651b779016bb48cbe7adaad278833a1191ad2e8fc6fbfe3",
-    "icon_key": "913addf010d2f20c451b452813163931b4635f45c3a0606120f15f22df6314dd"
-  },
-  {
     "name": "zftpd",
     "filename": "zftpd_v1.7.0.elf",
     "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/zftpd_v1.7.0.elf",
@@ -143,19 +156,6 @@
     "category": "Networking & Servers",
     "checksum": "8f78ac0cde64a0744b82663d4a6bf8c1d7e937876dceddc219a21164578bd96e",
     "icon_key": "bd943d614d5d000c34a8bd4e1c00df0bbb9881907accaabe58aab384711abb6c"
-  },
-  {
-    "name": "LiveShell",
-    "filename": "LiveShell_v1.6.0.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/LiveShell_v1.6.0.elf",
-    "source": "https://github.com/ZiZc3/LiveShell/releases",
-    "source_direct": "https://github.com/ZiZc3/LiveShell/releases/download/v1.6.0/liveshell.elf",
-    "description": "Animated backgrounds for PS5 home screen.",
-    "last_update": "2026-10-26",
-    "version": "v1.6.0",
-    "category": "Utilities & Tools",
-    "checksum": "99335e75312d6ffcce91f6a5b659f0191ec057c744b2b3d5b899db5a88b80ac3",
-    "icon_key": "4d4df486b46aab47c53d2afe83c17e96d9b6e74edf6cf4d51f9528ae417d1c19"
   },
   {
     "name": "WelcomeHubActivator",
