@@ -7,7 +7,7 @@ This repository contains an automated mirror of useful payloads for the PlayStat
 <!-- PAYLOADS_START -->
 | Payload | Version | Description | Last Updated | Source | Download |
 | --- | --- | --- | --- | --- | --- |
-| **ps5upload** | `v12.4.12` | Fast, reliable transfers from your computer to your PS5 (requires PC app) | `2026-11-12` | [Source](https://github.com/phantomptr/ps5upload/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v12.4.12.elf) |
+| **ps5upload** | `v12.4.14` | Fast, reliable transfers from your computer to your PS5 (requires PC app) | `2026-11-12` | [Source](https://github.com/phantomptr/ps5upload/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v12.4.14.elf) |
 | **garlic-savemgr** | `v1.15-beta23` | PS5 save decrypt/encrypt/browse with embedded web UI. | `2026-11-11` | [Source](https://git.etawen.dev/earthonion/garlic-savemgr/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/garlic-savemgr_v1.15-beta23.elf) |
 | **ps5-web-file-manager** | `v1.14` | A file manager for PS5 with a web UI | `2026-11-10` | [Source](https://github.com/owendswang/ps5-web-file-manager/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-web-file-manager_v1.14.elf) |
 | **LiveShell** | `v1.7.0` | Animated backgrounds for PS5 home screen. | `2026-11-10` | [Source](https://github.com/ZiZc3/LiveShell/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/LiveShell_v1.7.0.elf) |
