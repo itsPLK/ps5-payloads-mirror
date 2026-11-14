@@ -1,16 +1,29 @@
 [
   {
     "name": "ps5upload",
-    "filename": "ps5upload_v12.4.14.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v12.4.14.elf",
+    "filename": "ps5upload_v12.4.17.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v12.4.17.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.4.14/ps5upload-12.4.14.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.4.17/ps5upload-12.4.17.elf",
     "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
-    "last_update": "2026-11-12",
-    "version": "v12.4.14",
+    "last_update": "2026-11-13",
+    "version": "v12.4.17",
     "category": "Networking & Servers",
-    "checksum": "17dc0827d3d49701534a8b2f7dca337ec88f213eb825ed028763be5eeec72f7e",
+    "checksum": "f145f543338cab0b5f67946d1b98c4cc2dab1ca6e898f088da41e525fb0c6903",
     "icon_key": "8659496467090d2a8b6c7b1a6887702cc15d5b1be3ca05aee99f2b7c382244b0"
+  },
+  {
+    "name": "ps4mount",
+    "filename": "ps4mount_v0.8.0.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps4mount_v0.8.0.elf",
+    "source": "https://github.com/gasb07/ps4mount/releases",
+    "source_direct": "https://github.com/gasb07/ps4mount/releases/download/v0.8.0/ps4mount.elf",
+    "description": "Play PS4 fake PKGs on a jailbroken PS5 straight from a USB drive, without installing them.",
+    "last_update": "2026-11-13",
+    "version": "v0.8.0",
+    "category": "Utilities & Tools",
+    "checksum": "2f7d548cdb5c2beba631299fa9f1e5c18cca65c648443f9f36ffab9940a6a5ac",
+    "icon_key": "de625d7674459fd12f00e334b2f97dcc10eca0667e4b349b67dc5882050889a8"
   },
   {
     "name": "garlic-savemgr",
@@ -89,19 +102,6 @@
     "category": "Networking & Servers",
     "checksum": "41148c2c1cad1ea9e7cfde03e389fa918e3338e896d06167346de09adbdc8757",
     "icon_key": "4720d3f0f446dc4e8848351d922d3fa4c0ef2fe9267f6afd6f3865f9b14605e7"
-  },
-  {
-    "name": "ps4mount",
-    "filename": "ps4mount_v0.7.3.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps4mount_v0.7.3.elf",
-    "source": "https://github.com/gasb07/ps4mount/releases",
-    "source_direct": "https://github.com/gasb07/ps4mount/releases/download/v0.7.3/ps4mount.elf",
-    "description": "Play PS4 fake PKGs on a jailbroken PS5 straight from a USB drive, without installing them.",
-    "last_update": "2026-11-05",
-    "version": "v0.7.3",
-    "category": "Utilities & Tools",
-    "checksum": "f107a443aa83196744deeefe748a7f09d8b8b340a30df1b232535b6ee0f15127",
-    "icon_key": "de625d7674459fd12f00e334b2f97dcc10eca0667e4b349b67dc5882050889a8"
   },
   {
     "name": "NeoEnabler",
