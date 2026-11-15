@@ -718,5 +718,13 @@
   "ps5upload_v12.4.14.elf": {
     "download_count": 3758,
     "deleted_at": "2026-11-14"
+  },
+  "PS5Save_v2.elf": {
+    "download_count": 7110,
+    "deleted_at": "2026-11-15"
+  },
+  "ps5upload_v12.4.17.elf": {
+    "download_count": 3893,
+    "deleted_at": "2026-11-15"
   }
 }

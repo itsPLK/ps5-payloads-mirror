@@ -1,15 +1,28 @@
 [
   {
+    "name": "PS5Save",
+    "filename": "PS5Save_v3.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/PS5Save_v3.elf",
+    "source": "https://github.com/heni0xyz/PS5Save/releases",
+    "source_direct": "https://github.com/heni0xyz/PS5Save/releases/download/v3/backup.elf",
+    "description": "USB save backup utility for jailbroken PS5’s",
+    "last_update": "2026-11-15",
+    "version": "v3",
+    "category": "Utilities & Tools",
+    "checksum": "06897d7fb166c37329e6ac6c8904225abba03e847a5f705bf2c93963b1402794",
+    "icon_key": "6b0563518b0f643c3123c8cd93b4fb329217b2433c92f75e58b71cf7e90a52e5"
+  },
+  {
     "name": "ps5upload",
-    "filename": "ps5upload_v12.4.17.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v12.4.17.elf",
+    "filename": "ps5upload_v12.4.20.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v12.4.20.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.4.17/ps5upload-12.4.17.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.4.20/ps5upload-12.4.20.elf",
     "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
-    "last_update": "2026-11-13",
-    "version": "v12.4.17",
+    "last_update": "2026-11-14",
+    "version": "v12.4.20",
     "category": "Networking & Servers",
-    "checksum": "f145f543338cab0b5f67946d1b98c4cc2dab1ca6e898f088da41e525fb0c6903",
+    "checksum": "23584161eb851eca7185ede538387da8a280cfc84092e0c3dff488e41975cbba",
     "icon_key": "8659496467090d2a8b6c7b1a6887702cc15d5b1be3ca05aee99f2b7c382244b0"
   },
   {
@@ -182,19 +195,6 @@
     "category": "Loaders",
     "checksum": "82f6227610172c98bad6efe68219fc93a10027035991f47eb4b75532d023407d",
     "icon_key": "e26a527c03d4625ec7151301c5b79738ef031bb029d05a7dcded63f488caa7f4"
-  },
-  {
-    "name": "PS5Save",
-    "filename": "PS5Save_v2.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/PS5Save_v2.elf",
-    "source": "https://github.com/heni0xyz/PS5Save/releases",
-    "source_direct": "https://github.com/heni0xyz/PS5Save/releases/download/v2/backup.elf",
-    "description": "USB save backup utility for jailbroken PS5’s",
-    "last_update": "2026-10-21",
-    "version": "v2",
-    "category": "Utilities & Tools",
-    "checksum": "91a7661e1f6708da77fe2bb5a5e4634ff1c531445df65bb1681ef2b21357af4c",
-    "icon_key": "6b0563518b0f643c3123c8cd93b4fb329217b2433c92f75e58b71cf7e90a52e5"
   },
   {
     "name": "pldmgr",
