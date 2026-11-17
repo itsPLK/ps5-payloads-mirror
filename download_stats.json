@@ -734,5 +734,17 @@
   "ShadowMountPlus_1.7beta11.elf": {
     "download_count": 83708,
     "deleted_at": "2026-11-16"
+  },
+  "NeoEnabler_v0.6.2.elf": {
+    "download_count": 4955,
+    "deleted_at": "2026-11-17"
+  },
+  "ps5-dump-forge_v0.5.5.elf": {
+    "download_count": 7842,
+    "deleted_at": "2026-11-17"
+  },
+  "ps5upload_v12.4.23.elf": {
+    "download_count": 3895,
+    "deleted_at": "2026-11-17"
   }
 }

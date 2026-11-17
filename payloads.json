@@ -1,5 +1,44 @@
 [
   {
+    "name": "ps5upload",
+    "filename": "ps5upload_v12.6.1.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v12.6.1.elf",
+    "source": "https://github.com/phantomptr/ps5upload/releases",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.1/ps5upload-12.6.1.elf",
+    "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
+    "last_update": "2026-11-17",
+    "version": "v12.6.1",
+    "category": "Networking & Servers",
+    "checksum": "0ad7e0d05985b2f9969bc71117bb4cafd28c4764d7d8ed91e96a140bef17f508",
+    "icon_key": "8659496467090d2a8b6c7b1a6887702cc15d5b1be3ca05aee99f2b7c382244b0"
+  },
+  {
+    "name": "ps5-dump-forge",
+    "filename": "ps5-dump-forge_v0.5.6.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-dump-forge_v0.5.6.elf",
+    "source": "https://github.com/quer3q/ps5-dump-forge/releases",
+    "source_direct": "https://github.com/quer3q/ps5-dump-forge/releases/download/v0.5.6/ps5-dump-forge-0.5.6-ps5.elf",
+    "description": "A toolkit for working with PS5 game dumps",
+    "last_update": "2026-11-16",
+    "version": "v0.5.6",
+    "category": "Utilities & Tools",
+    "checksum": "f0415aab6ded1cdf875418b6683ab56aeae3721492af99fba71b08c2c351f82f",
+    "icon_key": "5ab5a0df9580b7ed460face021e302fe2c4496183699aeffc891232046288261"
+  },
+  {
+    "name": "NeoEnabler",
+    "filename": "NeoEnabler_0.7.0.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/NeoEnabler_0.7.0.elf",
+    "source": "https://github.com/gasb07/NeoEnabler/releases",
+    "source_direct": "https://github.com/gasb07/NeoEnabler/releases/download/0.7.0/neo-manager.elf",
+    "description": "Allows PS4 games with no PS4 Support to receive patches via illusionyy's ps-patch-system that can unlock higher resolutions",
+    "last_update": "2026-11-16",
+    "version": "0.7.0",
+    "category": "Utilities & Tools",
+    "checksum": "4195e02fa9f1d3d6ecacdf37149db1ba4ba3e6261d6a10d47d3c92b56ce9d4c6",
+    "icon_key": "faacbcbeedaf4e72af5398f611d4d5ff788dfddf8d4080b500492e6cf55cc35d"
+  },
+  {
     "name": "PS5Save",
     "filename": "PS5Save_v3.elf",
     "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/PS5Save_v3.elf",
@@ -11,19 +50,6 @@
     "category": "Utilities & Tools",
     "checksum": "06897d7fb166c37329e6ac6c8904225abba03e847a5f705bf2c93963b1402794",
     "icon_key": "6b0563518b0f643c3123c8cd93b4fb329217b2433c92f75e58b71cf7e90a52e5"
-  },
-  {
-    "name": "ps5upload",
-    "filename": "ps5upload_v12.4.23.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v12.4.23.elf",
-    "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.4.23/ps5upload-12.4.23.elf",
-    "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
-    "last_update": "2026-11-15",
-    "version": "v12.4.23",
-    "category": "Networking & Servers",
-    "checksum": "ef1a7e246158ce9dbbeb99bf0057f044c45a6a07b713a12a7575d4345147bba3",
-    "icon_key": "8659496467090d2a8b6c7b1a6887702cc15d5b1be3ca05aee99f2b7c382244b0"
   },
   {
     "name": "ps4mount",
@@ -78,19 +104,6 @@
     "icon_key": "4d4df486b46aab47c53d2afe83c17e96d9b6e74edf6cf4d51f9528ae417d1c19"
   },
   {
-    "name": "ps5-dump-forge",
-    "filename": "ps5-dump-forge_v0.5.5.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-dump-forge_v0.5.5.elf",
-    "source": "https://github.com/quer3q/ps5-dump-forge/releases",
-    "source_direct": "https://github.com/quer3q/ps5-dump-forge/releases/download/v0.5.5/ps5-dump-forge-0.5.5-ps5.elf",
-    "description": "A toolkit for working with PS5 game dumps",
-    "last_update": "2026-11-09",
-    "version": "v0.5.5",
-    "category": "Utilities & Tools",
-    "checksum": "858b8ae2954341a3389e4a9f998c6a57d01bc4e4fb8f01a71c41719001c30be7",
-    "icon_key": "5ab5a0df9580b7ed460face021e302fe2c4496183699aeffc891232046288261"
-  },
-  {
     "name": "WebKit-Autoloader-Installer",
     "filename": "WebKit-Autoloader-Installer_v0.7.1.elf",
     "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/WebKit-Autoloader-Installer_v0.7.1.elf",
@@ -129,19 +142,6 @@
     "category": "Utilities & Tools",
     "checksum": "8755172ec9bef1bff5453ea75606e0caf7c41b5963f94f5a1087e7e8c6d9b1bd",
     "icon_key": "2d83b692b57d424d0165cad9be37d9e0abe47a17dca0d7c6b9c05c30c4a0ab90"
-  },
-  {
-    "name": "NeoEnabler",
-    "filename": "NeoEnabler_v0.6.2.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/NeoEnabler_v0.6.2.elf",
-    "source": "https://github.com/gasb07/NeoEnabler/releases",
-    "source_direct": "https://github.com/gasb07/NeoEnabler/releases/download/v0.6.2/neo-manager.elf",
-    "description": "Allows PS4 games with no PS4 Support to receive patches via illusionyy's ps-patch-system that can unlock higher resolutions",
-    "last_update": "2026-11-03",
-    "version": "v0.6.2",
-    "category": "Utilities & Tools",
-    "checksum": "c0506bd055820a199ddae59a475686fdcf6f832f94594870ba41cee9b3fce1be",
-    "icon_key": "faacbcbeedaf4e72af5398f611d4d5ff788dfddf8d4080b500492e6cf55cc35d"
   },
   {
     "name": "CheatRunner",
