@@ -4,15 +4,15 @@
   "payloads": [
     {
       "name": "ps5upload",
-      "filename": "ps5upload_v12.6.1.elf",
-      "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v12.6.1.elf",
+      "filename": "ps5upload_v12.6.5.elf",
+      "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v12.6.5.elf",
       "source": "https://github.com/phantomptr/ps5upload/releases",
-      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.1/ps5upload-12.6.1.elf",
+      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.5/ps5upload-12.6.5.elf",
       "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
-      "last_update": "2026-11-17",
-      "version": "v12.6.1",
+      "last_update": "2026-11-18",
+      "version": "v12.6.5",
       "category": "Networking & Servers",
-      "checksum": "0ad7e0d05985b2f9969bc71117bb4cafd28c4764d7d8ed91e96a140bef17f508",
+      "checksum": "cd8ff9209d0e8d62c08762a28ee4b5b663b812e4ab480b4024b1b8cca9f6676f",
       "icon_key": "8659496467090d2a8b6c7b1a6887702cc15d5b1be3ca05aee99f2b7c382244b0"
     },
     {
