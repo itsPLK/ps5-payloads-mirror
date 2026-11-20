@@ -754,5 +754,17 @@
   "ps5upload_v12.6.5.elf": {
     "download_count": 3600,
     "deleted_at": "2026-11-19"
+  },
+  "elfldr_v0.27.elf": {
+    "download_count": 49211,
+    "deleted_at": "2026-11-20"
+  },
+  "ps5upload_v12.6.8.elf": {
+    "download_count": 3524,
+    "deleted_at": "2026-11-20"
+  },
+  "WebKit-Autoloader-Installer_v0.7.1.elf": {
+    "download_count": 39527,
+    "deleted_at": "2026-11-20"
   }
 }

@@ -3,17 +3,43 @@
   "icons_url": "icons.json",
   "payloads": [
     {
+      "name": "WebKit-Autoloader-Installer",
+      "filename": "WebKit-Autoloader-Installer_v0.8.0.elf",
+      "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/WebKit-Autoloader-Installer_v0.8.0.elf",
+      "source": "https://github.com/itsPLK/ps5-webkit-autoloader/releases",
+      "source_direct": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.8.0/webkit-autoloader-installer_v0.8.0.elf",
+      "description": "Installs WebKit Autoloader on homescreen (FW 7.00-13.60)",
+      "last_update": "2026-11-20",
+      "version": "v0.8.0",
+      "category": "Loaders",
+      "checksum": "015959f76c48e45df2b331ee2a6b52096afa3c2f9f1cbf9a29e67be699a6455b",
+      "icon_key": "cf0638e2449462e5df0467fbebb46f4404b66374650ce0dec4457408252815c7"
+    },
+    {
       "name": "ps5upload",
-      "filename": "ps5upload_v12.6.8.elf",
-      "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v12.6.8.elf",
+      "filename": "ps5upload_v12.6.13.elf",
+      "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v12.6.13.elf",
       "source": "https://github.com/phantomptr/ps5upload/releases",
-      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.8/ps5upload-12.6.8.elf",
+      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.13/ps5upload-12.6.13.elf",
       "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
-      "last_update": "2026-11-18",
-      "version": "v12.6.8",
+      "last_update": "2026-11-19",
+      "version": "v12.6.13",
       "category": "Networking & Servers",
-      "checksum": "782508beeac6219df8a75517f02aa114dcfb3fab8d2efb28149770aaf9d87435",
+      "checksum": "83b0222253285e3a95db389caaffb3063ea659a3940e7f95c70f5568f887365e",
       "icon_key": "8659496467090d2a8b6c7b1a6887702cc15d5b1be3ca05aee99f2b7c382244b0"
+    },
+    {
+      "name": "elfldr",
+      "filename": "elfldr_v0.28.elf",
+      "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/elfldr_v0.28.elf",
+      "source": "https://github.com/ps5-payload-dev/elfldr/releases",
+      "source_direct": "https://github.com/ps5-payload-dev/elfldr/releases/download/v0.28/elfldr-ps5.elf",
+      "description": "An ELF loader for jailbroken PS5s that accepts payloads on port 9021",
+      "last_update": "2026-11-19",
+      "version": "v0.28",
+      "category": "Loaders",
+      "checksum": "66968bae6159d8fb06125fcd43fb99cf64d6bfdf730c70f37a6f5d056ff63458",
+      "icon_key": "e26a527c03d4625ec7151301c5b79738ef031bb029d05a7dcded63f488caa7f4"
     },
     {
       "name": "ps5-dump-forge",
@@ -107,19 +133,6 @@
       "icon_key": "4d4df486b46aab47c53d2afe83c17e96d9b6e74edf6cf4d51f9528ae417d1c19"
     },
     {
-      "name": "WebKit-Autoloader-Installer",
-      "filename": "WebKit-Autoloader-Installer_v0.7.1.elf",
-      "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/WebKit-Autoloader-Installer_v0.7.1.elf",
-      "source": "https://github.com/itsPLK/ps5-webkit-autoloader/releases",
-      "source_direct": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.7.1/webkit-autoloader-installer_v0.7.1.elf",
-      "description": "Installs WebKit Autoloader on homescreen (FW 7.00-13.60)",
-      "last_update": "2026-11-08",
-      "version": "v0.7.1",
-      "category": "Loaders",
-      "checksum": "df60538570e9811bb0b4652a3fdb3e1a35ec3455b3ca7c80edc4140c5bb47ce2",
-      "icon_key": "cf0638e2449462e5df0467fbebb46f4404b66374650ce0dec4457408252815c7"
-    },
-    {
       "name": "ftpsrv",
       "filename": "ftpsrv_v0.22.elf",
       "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ftpsrv_v0.22.elf",
@@ -185,19 +198,6 @@
       "category": "Utilities & Tools",
       "checksum": "f989cc412ef782a01f394fe80cf8fc237970884ba90ce4fe4baac165c0b5a2a6",
       "icon_key": "c056a87a3134ccd14cecb017514c0cfe39d75b66518bd1f22e4309f427ef6d8e"
-    },
-    {
-      "name": "elfldr",
-      "filename": "elfldr_v0.27.elf",
-      "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/elfldr_v0.27.elf",
-      "source": "https://github.com/ps5-payload-dev/elfldr/releases",
-      "source_direct": "https://github.com/ps5-payload-dev/elfldr/releases/download/v0.27/elfldr-ps5.elf",
-      "description": "An ELF loader for jailbroken PS5s that accepts payloads on port 9021",
-      "last_update": "2026-10-21",
-      "version": "v0.27",
-      "category": "Loaders",
-      "checksum": "82f6227610172c98bad6efe68219fc93a10027035991f47eb4b75532d023407d",
-      "icon_key": "e26a527c03d4625ec7151301c5b79738ef031bb029d05a7dcded63f488caa7f4"
     },
     {
       "name": "pldmgr",
