@@ -766,5 +766,9 @@
   "WebKit-Autoloader-Installer_v0.7.1.elf": {
     "download_count": 39527,
     "deleted_at": "2026-11-20"
+  },
+  "WebKit-Autoloader-Installer_v0.8.0.elf": {
+    "download_count": 1486,
+    "deleted_at": "2026-11-20"
   }
 }

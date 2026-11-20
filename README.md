@@ -7,7 +7,7 @@ This repository contains an automated mirror of useful payloads for the PlayStat
 <!-- PAYLOADS_START -->
 | Payload | Version | Description | Last Updated | Source | Download |
 | --- | --- | --- | --- | --- | --- |
-| **WebKit-Autoloader-Installer** | `v0.8.0` | Installs WebKit Autoloader on homescreen (FW 7.00-13.60) | `2026-11-20` | [Source](https://github.com/itsPLK/ps5-webkit-autoloader/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/WebKit-Autoloader-Installer_v0.8.0.elf) |
+| **WebKit-Autoloader-Installer** | `v0.8.2` | Installs WebKit Autoloader on homescreen (FW 7.00-13.60) | `2026-11-20` | [Source](https://github.com/itsPLK/ps5-webkit-autoloader/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/WebKit-Autoloader-Installer_v0.8.2.elf) |
 | **ps5upload** | `v12.6.13` | Fast, reliable transfers from your computer to your PS5 (requires PC app) | `2026-11-19` | [Source](https://github.com/phantomptr/ps5upload/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v12.6.13.elf) |
 | **elfldr** | `v0.28` | An ELF loader for jailbroken PS5s that accepts payloads on port 9021 | `2026-11-19` | [Source](https://github.com/ps5-payload-dev/elfldr/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/elfldr_v0.28.elf) |
 | **ps5-dump-forge** | `v0.5.6` | A toolkit for working with PS5 game dumps | `2026-11-16` | [Source](https://github.com/quer3q/ps5-dump-forge/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-dump-forge_v0.5.6.elf) |
