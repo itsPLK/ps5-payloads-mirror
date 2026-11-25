@@ -7,7 +7,7 @@ This repository contains an automated mirror of useful payloads for the PlayStat
 <!-- PAYLOADS_START -->
 | Payload | Version | Description | Last Updated | Source | Download |
 | --- | --- | --- | --- | --- | --- |
-| **ps5upload** | `v12.6.26` | Fast, reliable transfers from your computer to your PS5 (requires PC app) | `2026-11-24` | [Source](https://github.com/phantomptr/ps5upload/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v12.6.26.elf) |
+| **ps5upload** | `v12.6.27` | Fast, reliable transfers from your computer to your PS5 (requires PC app) | `2026-11-25` | [Source](https://github.com/phantomptr/ps5upload/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v12.6.27.elf) |
 | **WebKit-Autoloader-Installer** | `v0.8.4` | Installs WebKit Autoloader on homescreen (FW 7.00-13.60) | `2026-11-23` | [Source](https://github.com/itsPLK/ps5-webkit-autoloader/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/WebKit-Autoloader-Installer_v0.8.4.elf) |
 | **ps5-dump-forge** | `v0.5.7` | A toolkit for working with PS5 game dumps | `2026-11-22` | [Source](https://github.com/quer3q/ps5-dump-forge/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-dump-forge_v0.5.7.elf) |
 | **garlic-savemgr** | `v2.0` | PS5 save decrypt/encrypt/browse with embedded web UI. | `2026-11-20` | [Source](https://git.etawen.dev/earthonion/garlic-savemgr/releases) | [Download](https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/garlic-savemgr_v2.0.elf) |
