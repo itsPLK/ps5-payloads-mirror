@@ -4,16 +4,42 @@
   "payloads": [
     {
       "name": "ps5upload",
-      "filename": "ps5upload_v12.6.31.elf",
-      "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v12.6.31.elf",
+      "filename": "ps5upload_v12.6.38.elf",
+      "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v12.6.38.elf",
       "source": "https://github.com/phantomptr/ps5upload/releases",
-      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.31/ps5upload-12.6.31.elf",
+      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.38/ps5upload-12.6.38.elf",
       "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
-      "last_update": "2026-11-26",
-      "version": "v12.6.31",
+      "last_update": "2026-11-27",
+      "version": "v12.6.38",
       "category": "Networking & Servers",
-      "checksum": "57bc3a0df33226c7f37c9d870aa21ec549dedb2414c09e8c47e647d14f125e45",
+      "checksum": "da4ec888e0c1d2d4e43f97d71b0ebdca7fdf7aa08a2b019a4a142db709f6dbda",
       "icon_key": "8659496467090d2a8b6c7b1a6887702cc15d5b1be3ca05aee99f2b7c382244b0"
+    },
+    {
+      "name": "ps5-dump-forge",
+      "filename": "ps5-dump-forge_v0.6.0.elf",
+      "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-dump-forge_v0.6.0.elf",
+      "source": "https://github.com/quer3q/ps5-dump-forge/releases",
+      "source_direct": "https://github.com/quer3q/ps5-dump-forge/releases/download/v0.6.0/ps5-dump-forge-0.6.0-ps5.elf",
+      "description": "A toolkit for working with PS5 game dumps",
+      "last_update": "2026-11-26",
+      "version": "v0.6.0",
+      "category": "Utilities & Tools",
+      "checksum": "420265c626d517ed433ecf360092dc28e1061fd0ac29346de488c41cde3ac0d2",
+      "icon_key": "5ab5a0df9580b7ed460face021e302fe2c4496183699aeffc891232046288261"
+    },
+    {
+      "name": "ps5-web-file-manager",
+      "filename": "ps5-web-file-manager_v1.15.elf",
+      "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-web-file-manager_v1.15.elf",
+      "source": "https://github.com/owendswang/ps5-web-file-manager/releases",
+      "source_direct": "https://github.com/owendswang/ps5-web-file-manager/releases/download/v1.15/web-file-mgr-v1.15.elf",
+      "description": "A file manager for PS5 with a web UI",
+      "last_update": "2026-11-26",
+      "version": "v1.15",
+      "category": "Utilities & Tools",
+      "checksum": "a3527dff53bfc783b4321ae42a8a691944f8d7ac4246c2a3c46ea31b6dc1d4ff",
+      "icon_key": "913addf010d2f20c451b452813163931b4635f45c3a0606120f15f22df6314dd"
     },
     {
       "name": "WebKit-Autoloader-Installer",
@@ -27,19 +53,6 @@
       "category": "Loaders",
       "checksum": "6224b1d4e221b3dcae1f198883ee998f16c824e518112e64189c5d1d376ed8d6",
       "icon_key": "cf0638e2449462e5df0467fbebb46f4404b66374650ce0dec4457408252815c7"
-    },
-    {
-      "name": "ps5-dump-forge",
-      "filename": "ps5-dump-forge_v0.5.7.elf",
-      "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-dump-forge_v0.5.7.elf",
-      "source": "https://github.com/quer3q/ps5-dump-forge/releases",
-      "source_direct": "https://github.com/quer3q/ps5-dump-forge/releases/download/v0.5.7/ps5-dump-forge-0.5.7-ps5.elf",
-      "description": "A toolkit for working with PS5 game dumps",
-      "last_update": "2026-11-22",
-      "version": "v0.5.7",
-      "category": "Utilities & Tools",
-      "checksum": "83a7e82a9070a671953d96e4acfc909697505281e4a023a2c6411316c2c1ce6c",
-      "icon_key": "5ab5a0df9580b7ed460face021e302fe2c4496183699aeffc891232046288261"
     },
     {
       "name": "garlic-savemgr",
@@ -105,19 +118,6 @@
       "category": "Utilities & Tools",
       "checksum": "2f7d548cdb5c2beba631299fa9f1e5c18cca65c648443f9f36ffab9940a6a5ac",
       "icon_key": "de625d7674459fd12f00e334b2f97dcc10eca0667e4b349b67dc5882050889a8"
-    },
-    {
-      "name": "ps5-web-file-manager",
-      "filename": "ps5-web-file-manager_v1.14.elf",
-      "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5-web-file-manager_v1.14.elf",
-      "source": "https://github.com/owendswang/ps5-web-file-manager/releases",
-      "source_direct": "https://github.com/owendswang/ps5-web-file-manager/releases/download/v1.14/web-file-mgr-v1.14.elf",
-      "description": "A file manager for PS5 with a web UI",
-      "last_update": "2026-11-10",
-      "version": "v1.14",
-      "category": "Utilities & Tools",
-      "checksum": "8493c0bd11d77f9cce4b6c93564ffcae7185a5b530ecf856a768519c2514e231",
-      "icon_key": "913addf010d2f20c451b452813163931b4635f45c3a0606120f15f22df6314dd"
     },
     {
       "name": "LiveShell",

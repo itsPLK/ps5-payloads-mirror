@@ -810,5 +810,17 @@
   "ps5upload_v12.6.27.elf": {
     "download_count": 5066,
     "deleted_at": "2026-11-26"
+  },
+  "ps5-dump-forge_v0.5.7.elf": {
+    "download_count": 5830,
+    "deleted_at": "2026-11-27"
+  },
+  "ps5-web-file-manager_v1.14.elf": {
+    "download_count": 56654,
+    "deleted_at": "2026-11-27"
+  },
+  "ps5upload_v12.6.31.elf": {
+    "download_count": 7759,
+    "deleted_at": "2026-11-27"
   }
 }
