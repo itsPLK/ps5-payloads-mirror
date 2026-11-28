@@ -822,5 +822,13 @@
   "ps5upload_v12.6.31.elf": {
     "download_count": 7759,
     "deleted_at": "2026-11-27"
+  },
+  "ps5upload_v12.6.38.elf": {
+    "download_count": 7540,
+    "deleted_at": "2026-11-28"
+  },
+  "zftpd_v1.7.0.elf": {
+    "download_count": 8903,
+    "deleted_at": "2026-11-28"
   }
 }

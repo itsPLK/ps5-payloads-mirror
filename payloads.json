@@ -1,16 +1,30 @@
 [
   {
     "name": "ps5upload",
-    "filename": "ps5upload_v12.6.38.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v12.6.38.elf",
+    "filename": "ps5upload_v12.6.46.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/ps5upload_v12.6.46.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.38/ps5upload-12.6.38.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.46/ps5upload-12.6.46.elf",
     "description": "Fast, reliable transfers from your computer to your PS5 (requires PC app)",
-    "last_update": "2026-11-27",
-    "version": "v12.6.38",
+    "last_update": "2026-11-28",
+    "version": "v12.6.46",
     "category": "Networking & Servers",
-    "checksum": "da4ec888e0c1d2d4e43f97d71b0ebdca7fdf7aa08a2b019a4a142db709f6dbda",
+    "checksum": "d762e1e3c65f36ed2d1cacce129a612c4777755684560b600a1e216dd445813a",
     "icon_key": "8659496467090d2a8b6c7b1a6887702cc15d5b1be3ca05aee99f2b7c382244b0"
+  },
+  {
+    "name": "zftpd",
+    "filename": "zftpd_v1.7.1.elf",
+    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/zftpd_v1.7.1.elf",
+    "source": "https://github.com/seregonwar/zftpd/releases",
+    "source_direct": "https://github.com/seregonwar/zftpd/releases/download/v1.7.1/zftpd-ps5-zhttp-v1.7.1.elf",
+    "asset_pattern": "zhttp",
+    "description": "Zero-copy FTP/HTTP Server",
+    "last_update": "2026-11-27",
+    "version": "v1.7.1",
+    "category": "Networking & Servers",
+    "checksum": "833adfc1f2274c63a0a1f60a274427ef6f1bc97d2077d13cbc8b91e62f0da6bf",
+    "icon_key": "bd943d614d5d000c34a8bd4e1c00df0bbb9881907accaabe58aab384711abb6c"
   },
   {
     "name": "ps5-dump-forge",
@@ -168,20 +182,6 @@
     "category": "Utilities & Tools",
     "checksum": "80535260027983f09fc9d131e11e13591de61ef5eeea458825598263862d2ce8",
     "icon_key": "773bbf20ce184cad7fe08134e83220b8bc43079821c8f131df5c5d931a293219"
-  },
-  {
-    "name": "zftpd",
-    "filename": "zftpd_v1.7.0.elf",
-    "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/zftpd_v1.7.0.elf",
-    "source": "https://github.com/seregonwar/zftpd/releases",
-    "source_direct": "https://github.com/seregonwar/zftpd/releases/download/v1.7.0/zftpd-ps5-zhttp-v1.7.0.elf",
-    "asset_pattern": "zhttp",
-    "description": "Zero-copy FTP/HTTP Server",
-    "last_update": "2026-10-28",
-    "version": "v1.7.0",
-    "category": "Networking & Servers",
-    "checksum": "8f78ac0cde64a0744b82663d4a6bf8c1d7e937876dceddc219a21164578bd96e",
-    "icon_key": "bd943d614d5d000c34a8bd4e1c00df0bbb9881907accaabe58aab384711abb6c"
   },
   {
     "name": "WelcomeHubActivator",
